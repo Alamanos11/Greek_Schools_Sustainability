@@ -1,0 +1,18 @@
+item,domain,statement,rater1,rater2,rater3
+BEL_1,Belief,Education must prepare pupils for environmental challenges,1,1,1
+BEL_2,Belief,"Sustainability concerns environment, society and economy equally",1,1,2
+BEL_4,Belief,Social justice is an integral part of sustainability,1,1,1
+BEL_8,Belief,"Pupils should think critically, even if it causes disagreement",1,1,1
+EQD_2,Democratic practice,"I encourage all pupils to voice opinions, even dissenting ones",1,1,1
+EQD_4,Democratic practice,I ensure pupils from other backgrounds participate equally,1,1,1
+EQD_6,Democratic practice,I respect and draw on diversity in my teaching,1,1,1
+EQD_8,Democratic practice,"I handle conflict through dialogue, not sanctions",1,1,1
+EQD_1,Democratic practice,Pupils take part in setting classroom rules,1,1,2
+EQD_7,Democratic practice,I let pupils choose topics or activities,2,2,1
+ESD_5,ESD practice,I encourage pupils to propose solutions to environmental problems,1,1,1
+ESD_6,ESD practice,"I discuss consumption, fair trade or social justice with pupils",1,2,2
+ESD_9,ESD practice,I use cooperative learning for sustainability topics,2,1,2
+ESD_2,ESD practice,I use real sustainability problems as a starting point,2,2,2
+ESD_4,ESD practice,I integrate sustainability across different subjects,3,2,2
+ESD_1,ESD practice,I run projects on environmental issues,3,2,3
+ESD_8,ESD practice,I work with organisations outside the school,3,3,3

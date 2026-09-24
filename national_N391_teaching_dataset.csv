@@ -1,0 +1,392 @@
+consent,gender,age,years_experience,education_level,specialty,school_area,training_sustainability,training_democracy,rfcdc_known,rfcdc_use,BEL_1,BEL_2,BEL_3,BEL_4,BEL_5,BEL_6,BEL_7,BEL_8,BEL_9,ESD_1,ESD_2,ESD_3,ESD_4,ESD_5,ESD_6,ESD_7,ESD_8,ESD_9,EQD_1,EQD_2,EQD_3,EQD_4,EQD_5,EQD_6,EQD_7,EQD_8,EQD_9,BAR_1,BAR_2,BAR_3,BAR_4,BAR_5,BAR_6,BAR_7,BAR_8,BAR_9,BAR_10,APP_1,APP_2,APP_3,APP_4,APP_5,APP_6,APP_7,APP_8,APP_9
+Yes,Male,31-40,6-10,Master's,Primary Teacher,Urban,Yes,No,Yes,Sometimes,4,5,2,5,1,3,4,4,3,2,2,1,2,1,2,3,1,1,2,2,3,3,3,2,1,3,4,4,5,4,5,5,5,1,5,5,5,3,3,5,5,5,4,1,1,3
+Yes,Female,31-40,6-10,Master's,Other,Urban,No,Yes,No,No,5,5,2,5,5,2,2,5,1,5,5,5,5,5,5,1,5,5,5,5,1,5,2,5,5,5,3,5,5,4,5,4,3,2,3,5,4,3,4,4,4,2,5,3,3,5
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,Rarely,4,5,1,4,3,2,3,3,4,4,4,2,4,4,4,1,4,4,2,5,3,4,4,5,3,3,3,4,4,4,4,3,3,4,2,3,3,1,3,4,4,4,5,2,2,4
+Yes,Female,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,No,Yes,No,,5,4,3,3,3,2,3,4,3,3,3,3,3,5,5,2,3,4,4,5,3,5,1,5,3,4,3,3,4,3,4,2,3,2,1,3,1,3,5,4,4,4,5,5,4,4
+Yes,Female,22-30,0-5,Master's,PE71 — Special Education Teacher,Semi-urban,Yes,No,No,Sometimes,5,5,4,5,3,3,3,5,2,3,4,3,5,5,5,4,5,5,5,5,4,5,4,5,5,5,3,4,4,5,5,5,3,4,5,4,4,4,3,5,4,5,5,4,3,5
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,Rarely,5,5,2,5,1,1,3,5,4,2,2,4,1,4,2,1,2,2,4,5,3,5,4,4,2,5,4,5,5,5,5,4,4,2,2,4,3,1,1,4,4,5,5,2,2,2
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,,4,5,4,4,1,1,3,5,2,3,3,3,3,3,3,3,3,4,4,5,5,5,5,5,4,4,4,3,4,4,4,3,3,3,2,5,3,1,1,1,4,4,5,3,3,3
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,,4,4,2,4,2,2,3,4,2,2,2,3,3,3,3,2,2,2,5,5,3,5,2,4,3,5,3,4,5,4,5,4,4,4,3,3,2,2,2,3,2,3,4,2,2,3
+Yes,Female,31-40,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,Rarely,5,5,3,3,2,2,1,4,1,4,4,2,4,5,4,1,2,4,5,5,5,5,1,5,4,3,4,5,5,5,5,5,5,1,3,5,1,3,5,4,4,4,5,2,2,4
+Yes,Female,31-40,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,5,5,5,1,3,5,1,4,4,1,4,5,5,1,5,5,3,5,2,5,4,5,5,5,4,5,4,5,5,5,5,5,5,5,5,3,1,5,5,5,5,1,3,4
+Yes,Female,22-30,0-5,Bachelor's,PE71 — Special Education Teacher,Semi-urban,No,Yes,Yes,Sometimes,4,4,2,3,3,2,3,4,4,4,2,2,4,4,4,2,2,4,4,4,2,4,2,4,4,4,4,3,3,4,5,4,3,4,2,2,4,4,2,4,4,3,4,3,2,3
+Yes,Male,31-40,0-5,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,4,5,1,4,1,2,2,4,5,3,4,5,4,5,5,1,3,4,5,5,1,4,2,5,4,5,1,5,4,5,5,4,3,1,4,5,1,3,4,4,4,5,4,1,1,5
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,Yes,Yes,No,,5,5,2,5,1,1,1,5,2,4,4,3,4,4,4,2,3,4,5,5,2,5,2,5,3,3,4,4,5,5,5,5,3,5,2,5,4,2,3,4,5,4,5,3,2,4
+Yes,Male,22-30,0-5,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Urban,No,Yes,Yes,Sometimes,2,5,2,5,1,3,2,5,3,2,3,4,3,4,3,2,2,3,3,4,3,5,2,4,4,5,4,5,5,4,5,4,3,3,5,5,2,2,3,4,4,5,5,1,2,4
+Yes,Female,41-50,21+,Bachelor's,PE70 — Primary Teacher,Semi-urban,Yes,Yes,Yes,"Yes, systematically",4,4,4,4,3,4,3,4,4,4,4,3,4,4,4,2,3,4,5,5,3,5,2,5,5,5,5,3,2,2,4,2,2,2,2,2,2,4,4,4,4,4,2,4,3,4
+Yes,Female,41-50,11-20,Master's,PE70 — Primary Teacher,Urban,Yes,Yes,No,Rarely,4,4,3,4,2,3,2,4,3,4,4,2,4,4,4,1,4,4,5,5,1,4,2,4,4,4,4,4,4,4,4,3,3,4,2,3,2,3,4,4,4,4,4,3,3,4
+Yes,Male,22-30,0-5,Doctorate,PE80 — Economics/Home Economics,Urban,Yes,Yes,No,,4,4,4,4,5,5,5,4,5,5,3,3,3,5,5,1,2,2,5,5,4,5,1,5,5,3,5,5,1,5,5,5,5,5,5,5,5,5,5,5,3,5,5,1,1,5
+Yes,Male,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,Yes,No,Yes,Sometimes,4,5,2,5,1,3,5,5,3,2,2,1,2,1,2,3,1,1,2,2,3,3,3,2,1,3,4,4,5,4,5,5,5,1,5,5,5,3,3,5,5,5,4,1,1,3
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,4,4,3,4,1,1,3,4,3,3,2,3,3,4,4,2,3,4,4,4,3,4,1,4,4,3,2,4,4,4,4,2,2,5,3,5,3,2,3,3,3,3,4,3,3,3
+Yes,Female,31-40,6-10,Master's,PE05/06/07 — Foreign Languages,Semi-urban,No,No,No,,4,5,3,4,2,2,2,4,2,4,2,3,2,4,4,2,2,2,4,5,3,5,4,4,4,3,4,4,4,4,4,4,4,4,3,4,4,2,2,4,4,4,4,2,2,2
+Yes,Female,51+,21+,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,4,4,5,2,2,2,5,5,4,4,2,5,4,4,1,3,5,4,4,3,4,3,3,3,4,4,2,4,2,3,2,2,2,2,2,2,3,4,4,4,4,4,3,4,4
+Yes,Male,22-30,0-5,Master's,PE79.01 — Music,Urban,Yes,No,Yes,Rarely,5,4,4,4,3,4,4,5,4,3,4,4,4,4,4,3,4,3,4,3,4,4,4,4,4,3,4,4,4,4,3,4,4,4,4,3,3,4,4,3,3,3,4,4,4,3
+Yes,Female,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,Yes,No,No,Rarely,4,4,4,4,1,1,3,5,3,2,2,3,2,4,2,2,2,2,4,5,3,5,2,5,4,3,4,3,5,5,5,5,4,3,4,4,2,2,3,3,4,3,4,3,2,3
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,Yes,Yes,Rarely,5,5,1,5,2,3,2,5,1,4,4,2,4,4,4,2,4,5,5,5,1,5,1,5,4,5,3,4,2,4,2,2,2,4,2,4,1,3,4,4,4,5,4,4,4,4
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,Yes,No,,4,4,3,3,1,2,2,4,2,5,4,2,4,4,4,2,2,2,3,5,1,5,3,5,5,4,3,4,4,4,4,4,5,4,4,5,3,3,3,5,5,4,5,2,3,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,Rarely,4,4,3,4,4,3,4,3,2,4,4,4,4,4,4,4,4,4,4,5,2,4,3,4,3,3,3,4,3,4,4,2,2,3,2,2,1,3,4,4,4,4,4,4,1,3
+Yes,Female,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,Yes,Yes,No,Rarely,5,5,3,5,1,4,2,5,1,4,5,2,3,5,3,1,3,3,3,5,3,5,3,3,3,5,4,5,2,3,4,5,4,4,5,4,2,3,5,5,5,4,4,1,2,4
+Yes,Male,22-30,0-5,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Urban,No,Yes,No,,5,5,1,5,2,2,2,2,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Yes,Female,31-40,11-20,Bachelor's,PE71 — Special Education Teacher,Urban,No,Yes,No,,5,4,3,4,3,3,2,5,2,1,3,3,3,3,3,1,1,3,4,5,3,5,2,5,2,5,2,3,4,1,3,1,3,4,3,2,1,3,4,2,4,4,4,4,3,4
+Yes,Female,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,,5,5,2,5,3,2,4,5,2,4,4,3,3,4,4,2,2,2,4,5,1,5,1,5,4,5,4,3,3,4,5,4,3,1,2,4,2,3,4,4,4,5,4,3,3,4
+Yes,Female,41-50,11-20,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,4,4,2,3,3,2,2,4,3,2,2,3,3,2,2,2,2,4,4,5,2,4,4,4,4,4,4,3,3,3,3,2,3,3,3,3,3,3,3,4,4,4,4,4,3,3
+Yes,Female,31-40,11-20,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,,5,5,4,5,3,2,2,5,1,3,3,3,4,4,4,2,2,4,5,5,1,5,3,5,4,5,1,2,5,3,4,2,3,4,1,4,4,2,3,4,4,5,5,4,4,4
+Yes,Female,31-40,11-20,Master's,PE70 — Primary Teacher,Urban,No,No,No,Rarely,4,4,3,3,2,2,3,3,3,3,3,3,3,4,4,3,3,3,4,4,4,4,3,4,3,4,3,3,3,3,3,3,4,3,3,3,3,3,3,4,4,4,4,3,3,3
+Yes,Male,22-30,0-5,Master's,PE05/06/07 — Foreign Languages,Urban,No,Yes,Yes,Sometimes,4,4,4,5,3,3,2,5,1,3,4,3,4,4,4,2,4,5,4,4,4,4,2,5,3,4,2,4,3,4,4,3,4,3,4,4,1,3,4,4,3,4,4,3,4,3
+Yes,Female,41-50,11-20,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Urban,No,Yes,Yes,"Yes, systematically",5,5,5,5,4,4,5,5,1,4,4,5,5,5,5,1,4,5,4,5,3,5,2,5,4,5,3,1,3,3,1,1,3,2,3,2,1,4,4,5,5,5,4,5,4,5
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,3,5,2,3,1,4,2,5,4,1,4,4,4,1,3,4,5,5,2,5,2,5,4,4,2,4,3,2,5,4,3,4,4,5,1,3,4,5,5,5,5,1,4,3
+Yes,Female,22-30,0-5,Bachelor's,PE71 — Special Education Teacher,Urban,No,No,No,,3,4,2,4,1,1,2,4,2,3,4,4,3,3,4,2,4,4,4,5,1,4,2,4,3,4,4,4,5,5,5,1,4,4,4,5,2,1,2,3,5,4,5,4,1,3
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,4,3,4,3,2,3,5,2,2,2,4,2,4,3,2,2,3,5,5,1,5,1,5,4,5,3,3,3,3,3,2,3,3,3,3,2,3,3,4,3,4,4,3,3,4
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,Yes,Yes,Yes,Sometimes,5,5,4,5,2,4,1,5,2,5,5,2,5,5,4,1,5,5,4,5,1,5,2,5,4,5,1,5,2,5,4,4,3,3,1,5,2,4,4,5,5,5,4,4,2,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,,5,5,3,5,2,3,1,5,2,4,5,3,5,5,5,1,5,5,5,5,1,5,1,5,5,5,1,3,3,3,3,1,1,1,1,3,1,3,3,5,4,5,5,4,3,4
+Yes,Female,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,Yes,No,No,,4,5,3,3,2,2,2,4,4,3,4,3,3,4,4,2,3,3,3,4,3,4,2,4,4,4,4,3,4,3,2,3,4,3,2,4,2,2,4,4,4,4,3,3,2,4
+Yes,Male,51+,21+,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,4,5,2,2,2,4,2,3,4,2,3,5,4,2,2,3,3,5,3,5,1,5,5,5,5,2,4,4,4,4,4,3,2,4,2,2,3,4,4,5,4,4,4,4
+Yes,Female,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,,5,5,3,5,1,3,3,5,1,3,3,3,3,5,5,1,3,2,3,5,1,5,4,5,4,5,4,3,4,4,5,4,4,4,4,5,4,2,4,5,5,5,5,3,1,3
+Yes,Female,51+,21+,Bachelor's,PE70 — Primary Teacher,Urban,No,No,Yes,Rarely,4,4,4,4,2,2,2,5,4,5,5,4,4,4,4,1,1,5,4,4,4,4,4,4,3,3,3,4,4,4,4,3,2,5,4,4,2,2,2,4,4,4,4,4,1,1
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,3,5,1,3,1,5,4,2,2,4,4,5,2,1,1,4,5,5,1,5,2,5,4,4,5,5,4,5,5,5,5,4,4,4,4,2,2,1,4,4,1,4,4,4
+Yes,Male,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,4,5,2,3,2,5,2,3,4,2,3,4,3,2,2,2,4,5,2,5,3,5,3,4,4,4,3,4,4,3,3,4,2,4,2,2,3,4,3,3,4,2,2,4
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,Yes,Yes,Sometimes,5,5,5,5,2,3,2,4,4,5,4,3,3,2,2,1,3,5,4,4,1,4,3,5,5,3,3,3,3,4,4,4,3,5,4,4,3,3,4,4,4,5,5,3,2,3
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Urban,Yes,Yes,Yes,Sometimes,5,5,2,4,2,3,2,5,2,5,5,2,5,5,5,2,5,5,5,5,2,5,3,5,5,5,1,3,3,4,5,1,1,5,1,4,1,3,3,5,5,5,5,4,2,5
+Yes,Male,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,Yes,No,,5,4,4,4,2,3,2,4,3,3,3,2,4,5,4,2,3,4,4,4,3,5,3,5,4,4,2,4,4,4,4,3,3,2,3,1,2,3,3,4,4,4,4,4,2,5
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,Yes,"Yes, systematically",4,5,4,5,3,3,4,4,4,4,5,4,4,4,4,4,4,4,3,4,4,4,3,4,4,4,4,4,3,4,4,4,4,5,4,5,4,4,4,4,4,4,4,4,4,5
+Yes,Female,22-30,0-5,Master's,PE60 — Kindergarten Teacher,Rural,No,Yes,Yes,Sometimes,4,4,2,4,2,2,2,3,2,4,4,2,4,4,4,2,4,4,5,5,1,5,4,5,4,5,1,3,5,4,4,5,4,3,3,2,1,3,4,4,4,4,4,4,4,4
+Yes,Female,51+,6-10,Bachelor's,PE11 — Physical Education,Urban,Yes,No,No,Rarely,5,5,5,5,5,3,4,3,2,4,4,4,4,4,4,2,4,4,4,5,3,5,2,5,5,3,3,3,4,3,4,3,4,3,4,2,3,3,3,4,4,5,5,5,3,5
+Yes,Female,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,,4,4,3,4,1,2,3,4,4,4,4,3,3,4,3,1,1,3,5,5,1,4,2,4,4,4,3,4,4,3,3,3,3,4,4,4,2,2,3,4,4,4,5,3,3,3
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,4,5,2,3,3,5,3,4,3,5,4,4,4,4,5,5,3,5,3,5,3,5,4,4,5,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,4
+Yes,Male,31-40,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,No,Yes,No,Rarely,4,4,4,4,4,3,3,4,3,3,3,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,3,3,3,4,4,4,4,4,3,4,4,3,3,3,3,3,3,3,3,3
+Yes,Female,41-50,0-5,Master's,PE80 — Economics/Home Economics,Semi-urban,No,Yes,No,,5,5,3,5,2,2,3,5,5,3,3,3,3,5,5,1,4,2,5,5,5,5,1,5,5,5,3,3,5,5,5,5,5,5,5,5,1,2,5,5,5,5,5,3,4,4
+Yes,Female,31-40,6-10,Bachelor's,PE05/06/07 — Foreign Languages,Semi-urban,No,No,No,,4,4,3,4,4,2,3,4,2,4,4,2,3,4,3,1,3,3,4,4,3,5,2,4,4,4,3,3,4,3,3,2,3,2,2,5,4,3,4,3,4,4,5,3,3,4
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,4,3,5,3,3,2,5,4,4,3,4,3,4,4,1,2,4,4,5,2,5,1,5,4,5,5,4,4,5,5,3,3,5,4,2,1,3,4,4,4,4,5,4,3,5
+Yes,Male,31-40,6-10,Master's,PE70 — Primary Teacher,Urban,No,No,No,Rarely,5,5,2,5,2,3,2,5,4,5,5,2,4,4,4,2,3,3,3,5,2,5,2,4,5,4,2,2,3,3,4,2,2,4,3,2,1,4,5,4,4,3,4,3,3,5
+Yes,Female,31-40,6-10,Master's,PE71 — Special Education Teacher,Urban,Yes,Yes,Yes,Sometimes,4,4,2,5,3,2,4,4,2,4,4,3,4,4,4,2,2,3,4,5,4,3,3,4,5,4,3,4,3,3,4,3,3,4,3,4,2,3,3,5,5,5,5,4,3,4
+Yes,Female,51+,6-10,Master's,PE11 — Physical Education,Urban,No,No,Yes,Sometimes,5,5,2,4,2,2,2,4,1,4,4,2,4,4,4,2,4,4,4,4,2,4,2,4,4,4,2,3,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,3,3,3
+Yes,Female,41-50,11-20,Master's,PE08 — Art,Semi-urban,No,No,No,,5,4,4,3,2,1,4,5,4,3,3,3,4,4,2,3,3,3,4,4,2,5,3,4,3,4,3,4,4,5,5,4,3,5,3,5,4,2,2,3,3,3,4,3,2,3
+Yes,Female,22-30,6-10,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,5,5,2,3,2,4,2,5,4,2,5,5,5,1,4,4,5,5,3,5,1,5,3,4,2,2,3,1,3,2,1,3,3,1,1,4,5,5,5,4,4,3,2,5
+Yes,Female,31-40,0-5,Master's,PE79.01 — Music,Semi-urban,No,No,No,,5,5,4,4,2,2,3,5,2,4,4,3,5,3,3,3,3,3,4,5,3,5,4,5,4,4,3,4,4,5,5,4,4,5,5,5,4,2,3,3,3,3,4,2,2,3
+Yes,Female,51+,21+,Master's,PE70 & PE71 — Primary and Special Education Teacher,Urban,No,Yes,Yes,Sometimes,5,5,2,5,1,1,4,5,1,4,4,2,5,4,3,5,5,5,5,5,4,5,1,1,4,5,2,5,3,4,4,3,3,4,3,5,2,3,4,4,5,5,5,3,2,3
+Yes,Female,22-30,0-5,Master's,PE04 — Science,Urban,No,No,Yes,"Yes, systematically",5,5,1,5,3,3,2,5,3,3,5,1,4,5,5,1,3,5,4,5,3,5,1,5,4,4,3,4,2,4,3,3,3,2,4,5,2,4,5,5,4,4,3,3,4,4
+Yes,Female,51+,6-10,Master's,PE11 — Physical Education,Urban,Yes,No,Yes,Sometimes,4,4,2,4,3,4,3,5,4,3,2,4,3,4,3,3,3,4,4,4,1,5,5,5,4,4,3,3,3,3,2,3,3,2,3,4,4,4,4,4,4,4,4,3,3,5
+Yes,Female,41-50,11-20,Bachelor's,PE08 — Art,Urban,No,No,No,Rarely,5,5,5,5,3,3,3,5,3,5,3,3,3,3,3,5,3,3,5,5,5,5,3,5,5,5,5,3,3,5,5,5,3,5,5,3,4,3,2,3,5,5,5,2,2,3
+Yes,Female,41-50,11-20,Master's,PE08 — Art,Urban,Yes,No,No,,4,4,4,4,3,3,3,4,3,5,5,3,5,5,5,3,5,5,5,5,3,5,4,5,4,4,2,3,3,4,4,3,3,4,4,5,4,4,4,4,5,4,3,5,3,4
+Yes,Female,41-50,11-20,Master's,PE08 — Art,Urban,No,No,No,,5,5,3,5,1,2,2,5,1,4,3,1,5,4,2,3,1,4,5,5,3,5,1,5,5,5,4,3,4,3,3,3,3,4,4,1,3,3,5,5,5,5,5,4,1,5
+Yes,Female,22-30,0-5,Master's,PE02 — Philology,Urban,No,No,No,Sometimes,5,5,4,4,3,3,2,4,2,3,3,3,4,4,4,2,1,4,5,5,2,4,1,5,3,4,4,5,4,5,5,5,3,4,3,4,2,2,4,4,4,5,4,3,3,4
+Yes,Female,41-50,21+,Bachelor's,PE91.01 — Drama,Urban,No,No,Yes,Rarely,5,5,4,5,1,1,3,5,3,3,3,3,3,4,4,3,4,5,4,5,4,4,4,4,4,4,4,4,4,4,5,3,3,5,4,5,5,3,4,4,4,4,5,3,3,4
+Yes,Female,41-50,11-20,Bachelor's,PE70 — Primary Teacher,Rural,No,No,No,,4,4,4,4,2,2,2,5,3,3,3,4,3,5,4,3,3,4,4,5,1,4,3,4,4,4,2,5,5,5,5,4,5,5,3,5,4,3,3,4,4,5,5,3,2,3
+Yes,Female,51+,21+,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,3,5,3,2,3,5,3,2,4,4,4,4,5,1,3,4,4,5,3,5,2,5,4,5,3,3,4,3,3,2,2,5,3,3,2,3,4,4,4,4,4,3,3,4
+Yes,Female,51+,21+,Bachelor's,PE70 — Primary Teacher,Urban,No,Yes,No,Rarely,5,5,4,4,3,3,2,4,2,5,5,2,4,4,4,1,3,3,5,5,2,5,3,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,3,4,4
+Yes,Male,51+,21+,Bachelor's,PE70 — Primary Teacher,Urban,Yes,Yes,No,Rarely,5,5,2,5,3,4,2,5,2,4,4,4,4,4,5,2,2,5,5,5,2,5,1,4,3,4,2,4,4,5,5,5,2,4,4,4,2,4,5,5,5,5,4,3,2,5
+Yes,Female,51+,11-20,Master's,PE05/06/07 — Foreign Languages,Urban,Yes,Yes,No,,5,5,2,5,2,4,1,5,2,5,5,1,5,5,5,1,4,5,4,5,1,5,1,5,5,4,2,2,2,4,4,1,3,5,3,4,1,5,5,5,5,5,4,4,4,4
+Yes,Male,51+,21+,Master's,PE70 — Primary Teacher,Semi-urban,Yes,Yes,No,,4,5,3,4,3,3,2,5,2,4,4,2,4,5,4,2,4,5,5,5,2,5,1,5,5,4,3,2,3,3,3,2,2,3,2,2,2,4,4,4,5,4,3,4,3,5
+Yes,Male,51+,21+,Doctorate,PE86 — Informatics,Urban,No,No,Yes,Rarely,5,5,1,5,3,2,2,5,2,4,5,4,4,4,4,2,4,5,5,4,2,4,2,5,4,5,2,3,4,5,3,2,2,5,2,3,2,3,4,4,5,5,5,4,3,4
+Yes,Female,31-40,11-20,Master's,PE70 — Primary Teacher,Urban,No,No,No,,4,4,2,5,2,2,3,3,3,4,3,3,4,4,3,1,1,2,2,4,3,5,3,3,2,3,2,4,5,5,5,5,3,5,3,4,4,2,3,4,4,4,5,4,3,5
+Yes,Female,41-50,6-10,Master's,PE23 — Psychologist,Urban,No,Yes,No,,5,5,3,5,1,1,1,5,1,1,5,3,5,5,5,1,4,3,4,5,1,4,1,5,4,5,3,4,4,4,4,3,2,2,2,2,1,3,4,4,4,4,4,3,3,4
+Yes,Female,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,,5,4,2,4,1,1,3,5,5,1,1,4,2,2,1,1,1,1,4,5,1,5,3,5,4,4,5,5,5,5,5,5,5,5,5,5,5,1,2,4,1,5,5,1,4,4
+Yes,Female,51+,21+,Bachelor's,PE70 — Primary Teacher,Urban,No,Yes,No,Rarely,5,5,5,5,2,2,4,5,5,4,4,4,3,4,4,2,4,5,5,5,4,4,3,4,4,5,5,4,4,5,5,5,4,5,3,3,2,2,2,2,4,4,4,3,2,3
+Yes,Male,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Rural,No,No,Yes,Rarely,3,4,4,3,2,2,2,4,3,4,3,5,4,3,2,1,5,3,4,4,3,5,1,5,4,5,3,4,4,5,3,1,3,3,2,4,1,3,4,4,4,5,5,4,2,4
+Yes,Female,41-50,21+,Bachelor's,PE70 — Primary Teacher,Urban,Yes,Yes,No,,5,5,2,5,4,3,3,5,1,4,4,3,4,4,5,4,2,4,5,5,5,5,2,5,5,5,2,3,3,2,3,3,2,2,2,1,1,3,4,4,4,4,4,3,2,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,,5,5,4,5,2,2,2,5,1,3,3,3,3,3,3,2,2,3,3,5,2,5,3,5,3,5,3,3,4,2,3,3,4,3,3,1,1,3,4,4,3,3,5,1,3,3
+Yes,Female,31-40,11-20,Master's,PE70 — Primary Teacher,Urban,No,Yes,No,Sometimes,4,4,3,4,2,3,3,4,3,4,4,4,4,4,4,3,3,3,4,5,4,5,1,4,3,4,3,3,3,3,4,4,3,2,2,2,3,3,4,4,4,4,5,1,1,4
+Yes,Male,41-50,11-20,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,3,4,1,1,3,4,3,4,4,3,4,4,3,1,3,3,5,5,3,3,1,4,3,3,4,4,4,4,5,3,3,4,4,4,2,2,3,4,4,4,5,4,4,4
+Yes,Male,22-30,0-5,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Semi-urban,No,No,No,Sometimes,4,5,5,5,3,5,3,5,3,5,4,3,4,5,4,3,4,5,4,5,2,5,3,5,4,4,3,4,3,2,3,2,3,4,4,3,3,5,5,5,5,5,5,4,4,5
+Yes,Female,31-40,11-20,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,2,5,2,2,3,4,3,4,3,4,2,5,5,1,3,3,5,5,3,5,1,5,3,4,4,4,4,4,4,3,3,3,2,4,1,2,4,4,4,4,5,3,2,5
+Yes,Female,51+,21+,Master's,PE70 — Primary Teacher,Urban,Yes,Yes,Yes,Rarely,4,5,5,4,2,3,3,4,2,4,4,4,3,4,4,4,3,5,4,5,3,5,2,4,3,4,3,3,2,4,4,3,2,5,4,3,3,4,4,5,5,4,5,2,2,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,5,5,3,3,3,4,2,3,4,3,3,4,4,2,4,4,5,5,4,5,2,5,5,4,1,3,4,3,3,3,3,3,2,3,3,3,3,3,3,4,4,3,3,3
+Yes,Male,31-40,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,4,5,4,2,2,4,3,1,4,4,4,4,5,3,3,4,4,5,4,4,4,3,4,4,4,4,5,5,5,5,4,5,5,4,4,4,3,3,4,3,4,5,3,1,5
+Yes,Female,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,,4,4,2,4,1,2,2,4,3,3,3,4,3,4,3,2,2,3,4,5,1,5,1,5,4,4,2,3,4,2,3,2,2,4,2,3,3,2,4,3,3,3,5,2,3,4
+Yes,Female,22-30,6-10,Master's,PE70 — Primary Teacher,Rural,No,No,No,Rarely,5,5,3,5,5,1,4,5,5,4,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,4,4,4,4,4,5,3,4,4,4,4,3,2,3,4,5,5,3,4,4
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Semi-urban,Yes,No,No,,5,4,4,4,4,2,3,4,2,4,4,4,3,5,5,3,3,3,4,4,4,3,3,4,3,4,4,5,4,4,5,4,4,4,3,4,4,2,3,4,3,3,5,3,2,5
+Yes,Female,51+,21+,Bachelor's,PE70 — Primary Teacher,Rural,No,No,No,,4,3,4,4,1,1,2,3,2,4,3,4,3,4,4,3,3,2,4,4,3,4,3,4,4,4,4,5,5,4,4,4,3,4,3,3,3,3,3,4,3,4,4,4,4,4
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,4,4,3,4,2,5,4,3,4,4,5,3,5,4,3,3,3,4,4,2,4,3,4,4,5,2,5,5,4,4,4,4,4,4,4,4,2,2,4,3,4,4,3,3,3
+Yes,Male,51+,21+,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,4,4,3,2,1,2,4,3,4,3,4,3,4,4,3,3,3,5,4,4,3,4,4,4,5,2,5,4,4,4,4,4,4,4,4,3,3,3,2,3,4,4,3,3,3
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,4,4,4,2,3,3,4,3,4,2,4,3,4,3,3,3,4,4,4,2,4,3,3,4,3,3,4,4,4,4,4,5,5,5,4,4,1,2,3,3,4,5,3,3,3
+Yes,Male,22-30,0-5,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,,5,3,4,4,2,2,3,5,3,4,4,4,3,4,3,3,2,4,5,4,2,3,3,4,4,4,3,5,5,5,5,5,5,5,5,5,5,1,1,4,4,4,5,2,3,4
+Yes,Female,22-30,6-10,Master's,PE70 — Primary Teacher,Urban,Yes,No,No,,5,4,4,4,2,3,3,4,3,4,4,4,4,4,4,3,3,4,5,4,2,4,3,4,4,4,3,5,5,4,4,4,4,4,3,4,3,3,3,4,4,4,5,2,2,4
+Yes,Male,41-50,11-20,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,5,5,3,2,2,5,4,3,3,3,3,3,3,3,3,4,3,5,4,3,5,4,4,3,4,3,5,5,5,5,5,5,5,5,5,5,1,1,4,4,4,4,4,3,4
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,Rarely,5,5,5,5,5,5,5,5,5,4,3,4,4,4,4,3,4,4,2,5,3,5,4,5,5,5,5,3,4,5,5,4,5,5,5,5,5,3,3,5,3,3,3,3,4,4
+Yes,Female,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,No,Yes,Yes,"Yes, systematically",3,5,2,4,3,3,2,4,5,3,3,2,2,2,4,4,3,3,3,4,4,4,4,4,4,4,4,3,3,3,4,4,4,4,3,4,4,2,2,2,3,4,4,4,4,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,Yes,Yes,No,,5,5,4,5,2,2,1,4,2,5,4,2,4,4,5,1,2,4,4,5,1,5,2,5,4,4,2,3,2,2,3,4,4,3,3,2,2,4,4,5,5,4,4,2,3,4
+Yes,Male,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,Yes,Yes,"Yes, systematically",5,5,4,2,4,3,4,4,4,5,4,4,4,3,4,4,4,4,2,4,1,5,3,5,5,4,3,4,2,4,4,4,2,3,4,4,4,4,4,3,3,4,3,4,4,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,2,5,2,2,2,5,2,4,4,2,4,4,4,2,2,4,4,5,2,5,2,5,4,4,2,4,3,3,4,5,3,4,3,4,2,3,4,5,5,4,4,2,2,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,4,4,4,3,3,4,3,4,3,3,3,4,4,4,4,3,4,5,4,2,4,3,4,4,4,3,5,5,5,5,4,5,5,4,4,4,3,3,3,3,3,5,2,2,5
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,4,3,3,2,3,4,5,3,4,3,4,3,4,4,4,3,4,5,5,2,5,4,4,4,3,3,5,5,5,5,4,4,5,3,4,4,3,3,4,4,5,4,3,2,4
+Yes,Male,41-50,11-20,Bachelor's,PE70 — Primary Teacher,Rural,No,No,No,,4,4,3,3,1,1,5,4,3,3,4,4,3,4,4,3,2,3,4,4,2,4,2,4,4,4,2,5,5,5,5,5,5,5,5,4,4,2,2,4,3,4,5,1,1,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Urban,Yes,No,No,,5,4,3,4,2,3,4,4,2,4,4,3,3,4,3,3,3,4,5,4,4,4,4,4,4,4,3,4,2,4,4,4,5,5,3,4,3,3,3,4,4,4,5,3,2,5
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Semi-urban,No,Yes,No,Rarely,4,4,4,4,5,3,3,3,4,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,3,3,4,4,4,4,4,3,2,3,3,3,3,3,4,3
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Semi-urban,Yes,No,No,Rarely,3,3,2,4,4,5,5,5,5,3,3,4,5,5,5,5,1,5,5,5,4,3,3,5,3,5,5,5,4,3,5,4,5,4,4,5,5,4,4,4,4,4,5,4,5,4
+Yes,Female,51+,21+,Bachelor's,PE70 — Primary Teacher,Rural,Yes,No,No,,5,3,4,3,2,2,5,4,3,3,3,4,3,4,4,3,3,4,5,5,1,4,3,4,4,4,2,5,5,5,4,4,5,4,3,4,3,2,2,3,3,3,5,3,2,5
+Yes,Male,51+,21+,Bachelor's,PE70 — Primary Teacher,Rural,Yes,No,No,,5,5,5,5,1,1,5,5,3,3,3,3,3,3,3,4,2,2,4,5,2,4,2,4,4,3,2,5,5,5,5,5,5,5,5,5,5,1,1,4,4,3,5,1,1,5
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,5,2,5,1,3,2,5,1,4,4,3,4,4,4,1,3,4,4,5,1,5,1,5,4,4,2,4,3,4,5,3,3,5,3,5,2,4,4,5,5,5,4,2,2,4
+Yes,Female,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Semi-urban,Yes,Yes,No,Rarely,4,4,5,5,3,3,1,5,5,4,4,4,4,4,5,2,5,5,4,4,3,5,4,5,5,5,2,3,4,4,4,4,2,4,4,2,3,4,4,4,4,5,5,4,4,4
+Yes,Female,51+,21+,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,4,4,3,4,2,2,3,4,4,3,3,4,4,4,4,2,2,3,3,5,2,5,2,5,3,4,3,3,4,3,4,2,3,4,2,4,2,2,3,3,3,4,4,3,2,3
+Yes,Female,22-30,0-5,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,,5,4,4,4,2,3,4,4,2,4,4,4,4,4,3,3,3,4,5,4,4,4,5,4,4,3,2,5,5,5,5,5,5,5,5,5,5,1,2,4,4,4,4,3,2,5
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Urban,No,Yes,No,Rarely,5,5,5,5,5,2,2,5,1,4,4,1,5,5,5,2,5,5,5,5,1,5,3,5,5,5,3,5,5,5,5,5,5,5,4,5,4,2,3,5,5,5,5,4,2,3
+Yes,Male,31-40,11-20,Master's,PE70 — Primary Teacher,Rural,No,No,No,Rarely,5,5,5,5,5,2,3,5,4,3,3,4,4,4,4,3,4,3,3,4,2,4,4,5,4,4,3,5,4,5,5,5,5,5,4,5,4,3,3,3,3,3,5,3,3,3
+Yes,Female,22-30,6-10,Master's,PE70 — Primary Teacher,Urban,No,Yes,No,Rarely,5,5,5,5,5,3,3,4,5,3,4,4,4,4,4,3,4,5,4,4,2,4,3,5,4,4,3,5,5,5,5,4,4,5,4,5,4,3,3,3,4,4,5,4,2,3
+Yes,Female,22-30,6-10,Master's,PE70 — Primary Teacher,Urban,No,No,No,Rarely,5,5,5,5,3,3,4,3,2,3,3,3,3,3,3,3,3,3,4,4,2,4,3,3,3,3,3,5,5,5,5,4,4,5,5,5,4,1,3,4,3,4,4,3,2,4
+Yes,Male,22-30,0-5,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,5,3,5,2,1,3,5,1,4,4,2,4,5,4,1,3,4,4,5,1,5,1,5,5,5,3,4,4,4,5,4,3,2,2,5,4,4,2,4,5,4,5,2,2,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Semi-urban,Yes,Yes,Yes,Rarely,5,5,2,5,1,3,1,5,4,5,5,1,5,5,5,2,4,5,5,5,1,5,1,4,5,4,2,4,3,5,5,4,4,2,2,5,5,3,5,4,4,4,5,2,2,4
+Yes,Male,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,Yes,Yes,Yes,"Yes, systematically",5,5,3,4,2,5,2,5,2,3,4,2,4,5,4,1,4,4,2,5,2,5,1,5,4,4,3,3,2,3,4,4,3,3,2,4,1,4,4,4,4,4,3,1,3,5
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,4,4,1,1,4,5,2,3,4,3,4,5,3,4,2,3,4,5,2,5,2,5,5,5,3,4,4,4,5,3,3,4,4,5,4,2,2,4,4,4,5,2,3,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,Yes,No,,5,4,4,5,1,1,5,5,2,3,4,2,3,4,2,3,2,4,2,4,2,5,3,5,3,4,5,5,5,5,5,4,3,5,3,5,4,2,2,5,5,5,5,2,4,3
+Yes,Female,41-50,21+,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,Rarely,5,5,5,5,5,5,5,5,5,2,2,4,3,3,3,3,2,3,3,3,3,3,2,3,3,4,3,4,5,5,5,5,4,5,4,5,4,2,2,4,4,4,4,2,1,4
+Yes,Male,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,4,4,3,3,2,3,5,3,4,3,4,3,4,3,4,3,3,5,5,3,4,3,4,4,4,4,5,5,5,5,5,5,5,4,5,5,2,2,4,4,4,5,2,2,5
+Yes,Female,31-40,11-20,Master's,PE70 — Primary Teacher,Urban,Yes,No,No,,5,4,4,3,2,3,3,5,3,4,4,4,4,4,4,3,4,4,5,5,2,4,3,5,4,4,2,4,3,4,4,4,4,5,2,5,3,3,3,4,4,4,5,2,2,5
+Yes,Male,41-50,11-20,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,4,4,4,1,1,5,4,3,5,5,4,4,4,3,4,1,2,4,4,2,3,2,4,4,4,2,5,5,5,5,5,5,5,5,5,5,1,1,4,4,4,5,3,1,5
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,Rarely,4,5,2,5,1,1,3,4,3,3,5,2,5,5,5,1,3,5,5,5,5,5,1,5,5,5,3,4,5,4,4,1,2,3,3,3,1,3,5,4,4,4,4,4,4,3
+Yes,Female,41-50,11-20,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,Rarely,5,5,5,5,5,5,5,5,5,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,5,5,5,5,4,4,5,5,5,5,2,4,4,3,3,3,3,3,3
+Yes,Male,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,,4,4,2,4,2,3,3,4,3,4,4,2,4,4,4,2,2,4,4,4,2,5,2,5,4,4,2,3,4,4,4,4,3,4,3,4,2,3,4,4,4,4,4,2,3,4
+Yes,Male,41-50,11-20,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,4,4,2,4,2,3,3,4,3,4,4,2,4,4,4,2,4,4,4,4,2,5,1,5,3,4,2,4,4,4,4,4,4,5,2,4,2,4,4,4,4,4,5,2,2,4
+Yes,Male,41-50,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,Yes,Yes,Sometimes,5,5,5,4,2,4,3,5,5,3,4,3,5,5,4,2,3,3,3,4,4,4,1,5,5,5,3,5,4,5,5,5,5,2,4,5,4,3,4,4,4,3,3,2,5,4
+Yes,Male,31-40,11-20,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,4,4,1,5,1,2,2,5,2,4,4,2,4,4,4,2,3,4,4,4,2,4,2,4,4,4,1,4,4,4,4,4,4,5,4,4,2,3,3,4,4,4,4,2,2,4
+Yes,Male,31-40,6-10,Master's,PE70 — Primary Teacher,Urban,Yes,Yes,Yes,Sometimes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,4,5,5,4,4,5,2,5,5,4,4,5,4,5,2,3,4,5,4,5,5,4,2,5
+Yes,Male,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,Yes,No,Yes,Rarely,5,5,5,5,5,2,5,5,5,4,4,1,3,4,3,2,2,3,4,5,4,5,3,5,4,4,4,5,5,5,5,5,4,5,3,5,4,2,3,4,4,4,4,3,1,5
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,Rarely,5,5,5,5,5,5,5,5,5,2,2,3,3,3,3,3,1,4,3,4,3,4,3,5,4,4,4,4,4,5,5,5,5,5,4,5,4,1,2,4,4,3,4,3,1,5
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,Rarely,5,5,5,5,5,1,1,5,5,2,2,5,2,4,3,3,4,4,3,3,3,4,3,4,3,3,3,5,5,4,5,5,5,4,4,5,5,1,2,2,2,3,5,4,1,3
+Yes,Female,41-50,11-20,Doctorate,PE70 — Primary Teacher,Urban,Yes,Yes,Yes,"Yes, systematically",5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,5,5,5,1,3,2,3,3,3,3,5,2,5,5,4,4,5,2,5,4,3,4,4,4,4,4,4,4,4
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,Sometimes,5,5,5,4,5,5,5,5,5,4,4,3,3,4,4,1,2,3,3,3,3,4,3,5,4,3,3,4,4,4,4,3,3,4,3,5,5,3,3,4,4,4,4,3,1,5
+Yes,Male,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,2,5,2,2,2,5,2,4,4,2,4,4,4,2,2,4,4,5,1,5,2,5,4,4,2,4,4,4,4,5,4,4,4,4,2,4,4,5,5,4,4,2,2,5
+Yes,Male,22-30,0-5,Master's,PE70 — Primary Teacher,Semi-urban,Yes,Yes,Yes,Sometimes,4,4,3,4,2,3,2,4,3,2,4,3,4,4,4,2,2,4,3,4,2,4,4,3,3,2,2,4,3,4,4,4,3,2,3,4,3,2,3,4,4,4,5,2,2,4
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Urban,No,No,No,Rarely,5,5,5,5,3,3,2,5,5,3,3,3,3,4,4,3,1,2,1,3,3,5,5,5,3,3,3,4,4,4,4,4,4,4,4,4,4,2,1,3,3,3,5,3,1,3
+Yes,Male,31-40,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,5,2,5,1,2,2,5,2,4,4,2,4,4,4,2,3,4,4,5,2,5,2,5,4,4,2,4,4,5,5,4,2,4,2,4,2,4,4,5,5,5,4,2,2,5
+Yes,Female,41-50,11-20,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,Rarely,5,5,5,5,5,1,1,5,1,2,2,3,3,3,3,2,2,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,1,3,4,4,4,4,4,4
+Yes,Male,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Rural,Yes,No,No,,5,5,4,5,2,2,3,5,2,3,4,3,3,4,4,2,4,5,5,5,4,5,2,5,4,4,3,4,3,4,4,4,4,4,4,4,2,3,4,4,4,4,4,2,2,3
+Yes,Male,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,,4,4,3,4,2,2,2,5,3,4,4,2,4,4,4,2,4,4,4,5,3,5,2,5,4,5,4,4,4,4,4,4,3,4,2,4,2,2,4,4,3,4,4,2,2,4
+Yes,Male,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,2,5,2,3,2,5,3,4,4,2,4,4,4,2,3,4,4,5,2,5,2,5,5,4,2,4,4,4,4,4,4,5,2,4,2,4,4,5,5,4,5,2,2,4
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Semi-urban,No,No,Yes,Sometimes,5,5,4,4,2,3,2,3,1,4,5,2,5,5,4,2,3,5,3,5,2,5,1,5,3,5,3,5,3,5,5,2,3,2,2,4,1,3,4,4,4,5,3,3,3,4
+Yes,Male,22-30,6-10,Bachelor's,PE70 — Primary Teacher,Rural,No,Yes,No,,4,4,2,5,2,1,2,5,4,3,3,4,4,3,3,2,2,5,4,5,2,4,3,5,4,4,2,5,5,5,4,4,4,5,5,5,5,2,1,3,4,4,4,4,4,4
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,5,5,3,4,4,5,4,4,4,2,5,4,4,1,4,5,4,5,3,5,3,5,4,4,1,4,4,4,5,3,5,4,3,3,5,4,3,5,5,5,5,2,4,5
+Yes,Male,22-30,0-5,Bachelor's,PE71 — Special Education Teacher,Rural,No,No,No,,5,5,4,5,2,3,1,5,2,4,3,1,4,5,5,2,3,4,5,5,1,5,3,5,5,5,1,4,5,3,5,3,4,5,4,3,5,4,4,4,5,5,4,3,3,4
+Yes,Female,51+,21+,Bachelor's,PE11 — Physical Education,Urban,No,No,No,,5,5,5,5,4,4,5,5,4,4,4,2,5,5,4,2,4,5,4,3,2,5,3,4,3,4,3,5,4,5,4,4,4,5,4,3,3,4,5,4,5,4,5,3,2,4
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,4,5,2,2,3,5,3,4,5,2,5,5,4,2,5,4,3,5,3,5,2,4,3,4,4,4,4,4,3,2,3,5,2,2,3,4,5,5,5,5,3,3,4,5
+Yes,Male,41-50,21+,Master's,PE70 — Primary Teacher,Urban,No,No,No,,4,4,5,4,1,1,3,5,2,3,3,2,3,4,3,2,3,3,4,5,3,4,2,4,4,4,2,4,5,5,5,3,4,3,5,3,4,2,2,3,3,4,5,3,2,4
+Yes,Female,31-40,6-10,Doctorate,PE70 — Primary Teacher,Urban,No,Yes,Yes,"Yes, systematically",5,5,3,3,1,1,2,4,1,3,4,2,4,5,4,1,5,5,5,4,5,4,2,5,5,4,3,5,5,4,5,5,5,5,4,5,4,4,3,4,4,4,5,3,3,4
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,Yes,Sometimes,4,4,5,4,4,2,3,4,3,2,2,5,2,3,2,4,3,5,4,5,3,4,3,4,3,5,3,3,4,3,4,3,4,4,4,4,4,2,3,3,4,4,4,2,3,3
+Yes,Female,22-30,6-10,Bachelor's,PE71 — Special Education Teacher,Urban,No,No,No,,5,5,3,5,3,4,3,5,4,3,5,3,4,4,3,2,3,5,4,4,3,5,4,5,4,4,4,3,5,3,4,4,5,3,4,3,3,3,4,4,4,4,4,2,2,4
+Yes,Female,22-30,6-10,Master's,PE11 — Physical Education,Urban,No,No,No,,5,5,3,5,2,2,1,5,1,3,3,3,3,3,3,4,3,3,5,5,2,4,3,5,4,5,3,4,4,4,5,3,3,4,2,3,3,3,1,4,5,4,5,3,2,3
+Yes,Male,22-30,0-5,Bachelor's,PE11 — Physical Education,Urban,No,No,No,,5,4,3,4,4,4,4,3,3,3,3,3,4,3,3,2,3,3,4,4,2,4,2,4,4,4,4,3,4,2,4,3,4,4,3,3,3,1,3,4,4,4,4,3,2,3
+Yes,Female,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Semi-urban,No,Yes,Yes,Rarely,5,5,1,4,1,1,3,5,1,4,5,3,4,5,5,1,3,2,5,5,1,5,1,5,4,5,3,3,5,3,4,2,5,3,3,3,4,3,3,5,5,4,3,2,1,5
+Yes,Female,31-40,6-10,Bachelor's,PE06 — Foreign Languages,Urban,No,No,No,,4,4,3,4,3,1,1,5,3,4,4,2,3,5,4,2,4,5,5,5,3,4,4,4,5,4,2,4,3,4,4,5,3,5,2,4,3,2,4,4,4,4,5,2,2,4
+Yes,Male,31-40,6-10,Bachelor's,PE70 — Primary Teacher,Semi-urban,Yes,No,No,,4,5,5,5,5,4,5,4,5,3,2,5,3,3,3,4,2,4,2,4,4,4,4,3,3,4,4,5,4,5,5,5,4,5,5,5,3,2,3,4,3,3,5,5,4,4
+Yes,Female,31-40,0-5,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,,4,5,4,5,2,2,3,4,1,4,5,4,4,5,4,1,5,5,4,5,2,5,2,5,5,4,3,5,4,5,4,5,4,5,4,5,5,3,4,4,5,5,5,2,3,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,,4,4,2,4,1,2,1,4,3,3,2,3,4,3,3,3,3,2,3,4,2,5,3,5,4,3,3,5,5,5,5,4,4,4,5,4,4,1,1,4,4,3,4,3,3,4
+Yes,Female,22-30,0-5,Master's,PE86 — Informatics,Semi-urban,No,No,No,,5,5,1,4,3,2,3,4,2,5,4,3,4,4,3,2,2,4,4,5,2,5,1,5,4,5,2,5,3,5,5,5,4,4,3,5,5,3,3,5,4,3,4,3,2,4
+Yes,Female,51+,21+,Master's,PE70 — Primary Teacher,Urban,Yes,No,No,,5,4,3,5,1,2,2,4,3,3,3,4,4,3,3,3,1,4,3,4,3,4,2,4,5,3,3,4,3,5,5,4,3,4,2,4,2,2,3,4,3,3,4,4,4,4
+Yes,Female,31-40,0-5,Master's,PE71 — Special Education Teacher,Urban,No,Yes,No,,4,4,2,4,1,1,3,4,2,3,3,4,3,3,3,4,2,3,4,3,5,4,3,3,3,3,5,4,5,4,5,3,5,4,4,4,4,2,1,3,4,5,4,4,4,3
+Yes,Female,31-40,11-20,Master's,PE70 — Primary Teacher,Semi-urban,No,Yes,No,,5,4,3,3,2,2,4,4,4,2,4,4,3,3,3,4,1,4,3,3,3,4,4,4,4,4,4,5,4,5,4,4,5,4,4,4,4,2,3,4,3,4,4,3,4,3
+Yes,Male,22-30,0-5,Master's,PE08 — Art,Urban,No,No,Yes,Sometimes,4,4,3,3,1,1,2,4,1,4,3,2,3,4,3,3,2,4,4,4,2,5,2,4,4,4,2,4,3,4,4,4,5,2,5,3,2,3,1,4,4,4,3,1,1,4
+Yes,Female,22-30,6-10,Master's,PE70 — Primary Teacher,Urban,Yes,Yes,No,,4,5,5,4,5,4,4,4,3,3,2,5,2,3,4,4,2,2,3,4,4,4,3,4,4,3,4,4,4,4,4,4,5,5,5,4,4,2,3,4,4,4,4,2,2,4
+Yes,Female,51+,11-20,Bachelor's,PE86 — Informatics,Rural,No,No,No,,4,4,4,3,3,3,2,3,3,3,3,4,3,4,3,3,4,3,3,4,4,3,3,4,3,3,4,4,4,3,4,3,4,4,2,4,2,2,2,4,5,4,3,3,1,4
+Yes,Female,51+,21+,Master's,PE70 — Primary Teacher,Urban,No,No,No,Rarely,5,5,3,4,2,3,2,5,2,4,5,4,4,4,4,1,3,4,4,4,2,5,3,5,3,4,4,4,5,5,5,3,5,4,4,5,5,3,3,4,4,4,4,3,2,4
+Yes,Female,41-50,11-20,Master's,PE08 — Art,Rural,No,Yes,No,,4,3,4,4,1,2,2,4,3,4,3,4,3,4,4,3,3,4,4,5,3,5,3,4,3,4,3,3,4,4,3,3,4,4,2,3,5,3,2,3,4,4,4,1,3,4
+Yes,Male,41-50,21+,Bachelor's,PE70 — Primary Teacher,Urban,No,Yes,No,,3,4,2,4,3,1,4,4,3,3,5,3,4,4,4,2,3,3,5,4,3,3,3,4,3,5,3,4,5,4,5,2,4,4,5,4,5,3,3,4,4,3,5,3,2,4
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,Yes,No,,5,5,4,3,1,1,1,4,1,3,4,2,4,3,3,2,3,3,4,5,4,4,2,4,3,5,4,4,2,5,5,4,3,4,3,3,1,2,3,3,4,4,4,2,3,3
+Yes,Male,31-40,6-10,Master's,PE08 — Art,Semi-urban,No,Yes,No,,5,5,2,5,1,1,2,5,1,4,4,2,4,4,5,2,4,4,4,5,2,5,2,5,4,4,3,3,5,2,4,4,3,3,3,3,3,2,4,4,4,4,4,3,3,4
+Yes,Male,51+,21+,Master's,PE70 — Primary Teacher,Urban,Yes,No,No,,5,4,2,5,1,1,2,5,1,2,4,3,3,4,3,2,3,4,3,4,3,5,2,4,4,3,3,4,3,4,4,3,3,4,2,4,1,2,2,4,3,4,5,1,2,4
+Yes,Female,51+,21+,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,4,3,4,3,3,3,4,3,3,4,3,3,3,5,2,3,5,4,5,3,5,3,4,4,4,2,4,4,4,4,4,2,3,5,4,2,2,3,4,5,3,3,1,2,3
+Yes,Female,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Semi-urban,No,No,No,,4,4,2,4,1,1,2,5,2,4,3,2,3,4,4,1,3,4,4,5,1,5,2,5,4,5,2,3,3,3,4,2,3,2,3,1,2,3,3,3,4,5,3,2,2,5
+Yes,Female,22-30,0-5,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,Yes,No,No,,4,4,5,4,3,2,2,4,3,3,4,4,2,3,3,2,1,4,3,4,3,5,2,4,4,5,3,4,5,3,5,4,5,3,4,4,4,3,1,4,3,4,4,3,3,3
+Yes,Female,51+,21+,Master's,PE70 — Primary Teacher,Urban,No,No,Yes,Sometimes,5,4,2,4,1,3,4,4,1,5,5,1,5,5,5,1,5,5,5,5,2,5,3,5,3,5,3,3,4,2,3,3,3,2,4,3,3,4,5,5,5,5,4,2,1,5
+Yes,Male,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,Yes,No,Yes,No,5,5,3,4,4,4,5,5,3,5,4,4,2,3,3,3,4,3,3,5,3,5,4,4,4,5,4,5,4,5,5,5,4,5,4,5,5,4,3,4,4,4,5,4,3,3
+Yes,Female,51+,21+,Master's,PE86 — Informatics,Urban,No,No,No,,5,5,3,5,2,2,1,5,2,4,4,3,4,3,5,2,4,4,5,5,2,5,2,4,5,5,3,2,4,4,4,5,4,2,3,4,2,4,5,5,5,4,3,2,2,4
+Yes,Female,31-40,6-10,Bachelor's,PE11 — Physical Education,Urban,No,Yes,No,,4,4,2,4,1,3,2,4,2,3,4,3,4,4,3,3,2,3,4,5,3,4,2,4,4,5,3,5,3,5,4,4,3,3,2,4,4,3,2,3,5,4,5,3,1,3
+Yes,Male,41-50,11-20,Master's,PE06 — Foreign Languages,Urban,No,No,No,,5,4,3,5,3,1,3,4,2,4,4,3,4,4,4,1,3,4,5,5,2,5,2,5,4,4,3,4,4,3,5,3,2,5,3,4,2,3,3,5,4,5,4,2,3,5
+Yes,Female,41-50,11-20,Bachelor's,PE08 — Art,Urban,No,No,No,,5,5,4,4,2,2,2,4,1,3,3,3,4,4,5,2,4,5,4,5,1,4,2,5,4,4,3,4,5,3,4,3,4,4,3,3,4,3,3,4,4,4,4,2,2,4
+Yes,Male,41-50,11-20,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Rural,No,Yes,Yes,Rarely,5,5,2,5,1,1,2,5,1,4,4,1,4,5,4,1,4,4,5,4,1,5,3,5,5,4,2,4,3,4,4,4,4,3,4,3,3,3,3,4,3,4,4,1,3,4
+Yes,Female,31-40,11-20,Bachelor's,PE71 — Special Education Teacher,Urban,No,Yes,No,,5,5,3,5,4,2,3,4,2,2,3,4,3,2,3,4,1,3,4,4,2,5,1,5,3,4,2,3,4,4,3,4,4,4,4,2,4,1,2,3,4,3,4,3,2,3
+Yes,Male,41-50,6-10,Doctorate,PE71 — Special Education Teacher,Urban,No,No,Yes,Sometimes,5,4,2,4,1,1,2,5,3,3,4,3,5,4,4,2,2,4,4,5,4,5,3,4,4,4,3,5,5,5,5,4,5,4,5,5,5,3,4,4,4,5,5,4,3,5
+Yes,Female,31-40,11-20,Bachelor's,PE11 — Physical Education,Urban,No,No,No,,5,3,4,4,2,1,2,4,2,3,3,4,2,3,2,3,3,3,3,3,3,4,4,4,4,3,4,4,4,4,5,4,3,5,2,5,3,2,2,3,3,4,5,4,3,3
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,4,5,5,5,5,4,4,4,5,2,3,3,2,3,3,3,3,2,3,3,4,4,4,3,4,4,5,5,4,5,5,4,4,4,3,5,5,2,1,4,3,4,4,3,4,4
+Yes,Female,41-50,11-20,Bachelor's,PE06 — Foreign Languages,Urban,No,No,No,,4,4,5,4,3,3,4,5,5,3,3,3,3,3,3,3,3,3,4,5,3,5,3,4,3,3,3,3,3,4,5,4,4,3,3,3,1,3,3,4,4,4,5,4,2,4
+Yes,Male,22-30,0-5,Master's,PE08 — Art,Urban,No,Yes,No,,4,3,4,3,3,3,4,3,2,5,5,2,4,5,5,1,4,4,4,5,3,5,3,4,4,4,4,3,4,3,3,2,3,3,4,3,2,3,4,5,4,4,4,1,2,5
+Yes,Female,51+,21+,Bachelor's,PE86 — Informatics,Rural,No,No,Yes,Rarely,5,5,4,5,3,2,4,5,3,2,3,5,5,4,3,2,3,3,5,4,1,4,3,5,4,5,2,3,5,5,5,4,4,4,4,4,4,3,2,4,3,3,5,4,3,3
+Yes,Male,51+,21+,Bachelor's,PE11 — Physical Education,Urban,No,No,No,,4,5,3,4,1,3,3,4,3,2,3,4,3,3,3,4,2,2,5,4,3,4,4,5,4,4,3,4,4,4,5,3,5,4,5,4,3,2,2,3,4,3,5,2,2,2
+Yes,Female,31-40,6-10,Doctorate,PE70 — Primary Teacher,Semi-urban,No,No,Yes,Rarely,4,5,4,5,3,3,2,5,3,5,4,3,4,4,4,1,4,4,4,4,2,5,2,5,3,4,2,3,4,3,4,3,4,5,4,3,4,3,2,5,4,4,4,2,3,4
+Yes,Female,41-50,11-20,Bachelor's,PE11 — Physical Education,Semi-urban,No,No,No,Rarely,4,5,5,5,5,2,4,4,5,4,4,2,5,5,5,1,3,4,4,4,1,5,1,5,4,5,4,4,4,4,5,3,3,5,3,4,2,4,3,5,5,4,5,3,2,5
+Yes,Female,31-40,0-5,Bachelor's,PE79.01 — Music,Semi-urban,No,Yes,No,,4,2,2,4,1,2,2,4,1,3,4,2,3,4,4,1,3,4,5,5,2,5,1,4,5,5,1,3,4,3,4,4,4,3,3,4,4,2,3,4,4,4,4,3,3,3
+Yes,Female,31-40,0-5,Master's,PE71 — Special Education Teacher,Urban,No,Yes,No,,4,4,3,3,3,2,4,4,3,5,4,3,4,4,5,3,2,4,4,5,2,5,4,5,5,4,4,4,3,3,4,2,3,3,3,3,1,3,3,4,5,4,3,1,1,5
+Yes,Female,22-30,0-5,Master's,PE11 — Physical Education,Semi-urban,No,Yes,No,,5,5,4,4,2,2,3,4,4,4,5,1,4,5,5,2,4,5,5,5,3,4,2,5,4,4,3,5,3,5,4,5,3,4,4,4,3,2,4,4,4,4,5,3,3,4
+Yes,Female,31-40,6-10,Master's,PE06 — Foreign Languages,Urban,Yes,No,No,,5,5,4,5,3,2,3,5,2,4,5,3,4,4,5,1,3,3,4,4,3,5,3,5,3,4,3,5,5,5,5,5,4,5,5,5,5,3,3,4,4,4,5,3,2,4
+Yes,Female,51+,21+,Master's,PE08 — Art,Semi-urban,Yes,Yes,No,,5,5,1,5,1,1,1,5,1,5,5,1,5,5,5,1,5,5,5,5,1,5,1,5,5,5,2,3,3,3,2,2,3,3,1,1,3,3,4,4,5,5,3,2,1,4
+Yes,Female,31-40,11-20,Master's,PE70 — Primary Teacher,Rural,No,No,No,,4,4,1,4,1,1,1,4,1,4,4,2,4,5,3,2,5,4,5,5,1,5,1,5,4,5,1,4,3,4,4,4,4,5,4,4,3,3,4,5,5,4,5,4,1,5
+Yes,Female,31-40,6-10,Doctorate,PE70 — Primary Teacher,Urban,Yes,No,No,,4,4,2,4,2,1,1,4,2,3,4,3,3,3,4,2,2,4,4,5,2,5,3,4,3,4,3,4,4,5,5,5,3,4,4,5,4,2,3,4,5,5,5,4,3,4
+Yes,Female,41-50,11-20,Master's,PE11 — Physical Education,Rural,No,No,No,,4,4,3,4,2,1,4,4,2,3,3,3,5,4,4,2,3,3,5,5,3,5,2,5,4,4,2,4,3,4,3,4,3,4,4,4,3,1,3,4,3,4,5,2,3,3
+Yes,Female,31-40,6-10,Master's,PE79.01 — Music,Urban,No,No,No,,5,5,5,4,3,3,4,5,5,3,4,4,3,3,4,3,3,3,3,5,3,4,2,5,4,4,5,5,3,4,5,5,3,5,2,5,4,2,3,3,3,4,4,4,4,4
+Yes,Female,31-40,0-5,Doctorate,PE70 — Primary Teacher,Urban,Yes,No,Yes,No,4,5,2,5,1,1,2,4,1,3,4,2,4,4,3,2,4,4,5,5,1,5,1,5,5,4,3,4,4,3,5,4,3,4,3,4,3,3,4,4,5,5,4,2,3,4
+Yes,Female,31-40,11-20,Master's,PE71 — Special Education Teacher,Urban,No,No,No,,5,4,2,4,1,2,5,3,2,2,3,4,1,3,3,4,2,3,4,4,2,4,3,3,3,4,3,5,5,5,5,5,5,5,5,5,5,2,2,4,4,3,5,3,4,3
+Yes,Female,22-30,0-5,Master's,PE06 — Foreign Languages,Semi-urban,No,No,No,,5,4,3,4,3,4,5,4,3,3,4,4,5,4,4,1,3,5,3,4,3,4,4,5,4,4,5,4,4,3,4,2,4,3,5,3,4,3,4,4,4,5,4,2,1,3
+Yes,Female,51+,11-20,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,,5,4,2,5,2,2,2,5,1,5,4,4,5,5,4,1,4,4,4,5,2,4,2,5,4,4,2,3,3,3,4,4,3,3,2,3,2,3,3,4,5,4,4,2,2,5
+Yes,Male,31-40,6-10,Master's,PE08 — Art,Semi-urban,No,No,No,Rarely,4,5,4,4,3,4,3,4,3,4,4,4,3,4,4,2,1,4,3,4,2,3,4,3,3,3,4,4,4,5,5,4,4,5,3,5,3,1,2,2,3,4,5,5,3,4
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Rural,Yes,Yes,No,,4,5,1,5,2,3,2,5,1,4,4,4,3,4,3,2,2,3,5,4,2,5,2,4,4,5,3,4,4,4,4,4,3,4,4,4,3,2,2,5,4,4,4,2,2,4
+Yes,Female,22-30,0-5,Bachelor's,PE79.01 — Music,Rural,No,Yes,No,,5,4,5,4,4,4,5,4,4,4,5,2,5,5,5,3,5,5,4,5,1,4,1,4,4,4,2,2,3,2,4,2,3,2,5,4,4,3,5,5,4,5,5,2,2,4
+Yes,Female,22-30,0-5,Bachelor's,PE71 — Special Education Teacher,Urban,No,Yes,No,,5,5,4,5,3,3,4,5,3,3,3,4,2,4,3,3,2,4,3,4,5,4,3,4,4,4,4,5,5,4,5,5,5,3,5,5,4,2,4,3,4,4,5,4,4,3
+Yes,Female,41-50,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,Yes,No,,5,4,2,4,1,1,2,4,1,5,4,2,5,5,5,1,5,5,5,5,1,5,1,5,5,4,2,2,2,2,2,2,2,2,3,2,2,4,5,5,5,5,3,1,1,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Semi-urban,Yes,Yes,No,,5,5,5,4,3,5,3,4,4,4,4,4,4,3,4,2,2,5,4,5,3,5,1,4,3,4,4,4,4,4,4,4,4,3,4,4,4,3,4,3,3,4,5,4,2,3
+Yes,Male,41-50,11-20,Doctorate,PE06 — Foreign Languages,Semi-urban,No,Yes,No,,5,5,1,5,2,2,1,5,1,4,4,3,4,5,5,2,4,5,5,5,2,5,1,5,5,5,3,3,5,3,5,3,4,2,3,2,4,3,5,4,5,5,3,2,1,4
+Yes,Female,31-40,6-10,Bachelor's,PE86 — Informatics,Urban,No,No,No,,4,4,5,4,2,2,3,4,3,3,3,4,3,4,3,4,3,3,4,4,3,5,2,4,3,4,4,4,5,4,4,4,3,4,4,5,4,2,2,5,3,5,5,3,3,3
+Yes,Female,51+,21+,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,4,5,5,4,3,4,5,3,3,4,4,3,3,3,3,1,2,4,5,3,4,2,4,2,4,3,2,3,4,4,5,3,4,3,4,3,2,3,3,2,3,4,4,3,4
+Yes,Male,41-50,6-10,Bachelor's,PE70 — Primary Teacher,Rural,No,No,No,,5,5,4,4,2,4,3,4,3,4,5,2,5,5,5,2,5,5,5,5,2,5,2,4,4,5,2,4,4,4,5,5,3,3,4,5,4,3,4,5,5,4,4,5,4,5
+Yes,Female,22-30,0-5,Bachelor's,PE86 — Informatics,Urban,No,No,No,,4,4,5,5,4,5,5,4,5,3,3,2,4,5,5,3,3,5,3,4,4,4,5,3,4,5,4,4,4,3,3,3,4,3,4,4,4,3,3,4,4,4,4,4,1,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,4,3,5,3,2,3,5,4,4,4,3,4,5,5,2,3,5,5,4,1,4,3,4,4,4,2,5,5,5,5,5,5,5,5,5,4,3,4,4,5,5,4,3,3,3
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Urban,No,Yes,Yes,Sometimes,5,5,3,5,3,2,3,5,2,4,4,2,4,5,4,1,3,5,5,4,1,5,2,5,4,5,3,3,4,3,4,1,4,3,4,5,4,3,4,5,5,5,4,3,2,5
+Yes,Male,41-50,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,5,1,4,2,2,1,5,2,3,5,2,4,5,4,2,5,4,4,4,2,5,2,5,5,5,3,3,3,3,4,3,4,3,3,4,1,3,3,5,5,5,4,2,1,5
+Yes,Male,22-30,6-10,Bachelor's,PE06 — Foreign Languages,Rural,No,No,No,,5,4,4,5,4,4,3,5,2,4,3,2,3,4,4,3,3,5,5,5,2,5,2,5,4,4,2,5,5,4,5,4,4,5,4,5,4,2,4,4,4,4,5,3,3,5
+Yes,Female,31-40,0-5,Master's,PE79.01 — Music,Semi-urban,No,Yes,No,,5,5,4,5,4,2,5,5,3,5,4,3,4,4,4,1,3,4,4,5,2,4,3,4,5,4,3,4,4,3,4,3,4,5,3,4,2,3,4,4,4,4,5,3,2,4
+Yes,Male,41-50,11-20,Master's,PE79.01 — Music,Rural,No,No,No,,5,4,3,5,1,1,2,4,2,5,3,4,3,5,4,3,3,3,3,5,3,4,3,4,3,4,3,4,4,4,4,4,3,3,4,3,3,3,4,4,4,5,4,4,2,4
+Yes,Male,31-40,0-5,Master's,PE11 — Physical Education,Urban,No,Yes,No,,5,4,4,4,2,3,3,4,3,2,4,4,2,3,4,3,2,3,4,4,5,4,3,3,4,4,4,5,5,4,5,5,5,5,3,5,4,1,3,3,4,2,5,4,2,4
+Yes,Female,31-40,6-10,Master's,PE11 — Physical Education,Semi-urban,No,No,Yes,Sometimes,5,4,2,4,1,4,1,5,3,4,5,2,4,4,5,2,3,4,4,4,2,4,1,5,4,5,2,3,4,2,2,2,3,2,3,3,2,3,4,5,5,5,3,1,1,5
+Yes,Female,31-40,11-20,Doctorate,PE71 — Special Education Teacher,Urban,Yes,Yes,No,,4,3,1,4,3,2,3,4,2,3,3,4,3,3,3,2,3,3,3,5,2,5,2,4,4,5,3,5,5,5,5,5,5,4,5,5,5,2,3,3,4,4,5,2,2,4
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Rural,No,No,No,,5,4,4,4,2,2,4,5,3,4,3,2,4,4,4,2,3,3,4,5,4,4,2,5,4,4,3,5,2,4,3,4,3,4,3,3,2,3,3,5,4,4,4,2,3,5
+Yes,Female,41-50,21+,Bachelor's,PE70 — Primary Teacher,Urban,No,No,Yes,No,4,4,5,5,2,4,5,5,1,4,5,2,3,5,4,1,2,4,3,4,3,4,4,3,3,4,3,3,3,5,5,4,3,3,3,4,3,3,5,4,4,5,4,3,4,5
+Yes,Female,31-40,6-10,Master's,PE06 — Foreign Languages,Urban,No,Yes,Yes,No,5,5,4,5,2,2,3,5,1,4,3,3,4,3,4,1,4,3,5,5,1,5,2,4,5,5,3,5,5,4,4,4,4,4,3,3,2,2,3,4,4,3,4,2,2,4
+Yes,Female,31-40,11-20,Doctorate,PE70 — Primary Teacher,Semi-urban,No,Yes,Yes,Sometimes,5,4,3,5,2,1,1,5,1,4,4,4,4,5,4,1,4,5,5,5,1,5,3,5,5,5,2,3,3,5,4,5,3,5,3,3,3,4,3,5,5,4,4,2,1,4
+Yes,Male,41-50,11-20,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,4,5,4,4,1,4,3,4,4,4,3,3,4,4,4,1,3,4,3,5,3,5,3,5,5,5,3,4,3,3,4,4,3,3,3,4,3,4,3,4,4,4,5,2,2,3
+Yes,Female,22-30,6-10,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,4,3,4,3,4,3,4,4,3,2,2,5,3,3,3,4,2,3,3,3,5,4,4,3,2,2,5,4,5,4,4,3,4,4,5,5,4,1,2,3,2,3,4,3,2,3
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Urban,No,Yes,Yes,Rarely,4,5,3,4,2,2,3,5,4,5,4,1,4,5,4,1,4,5,5,5,1,4,2,5,4,4,2,4,4,4,4,4,3,3,4,3,4,4,4,4,5,5,5,2,2,4
+Yes,Female,41-50,21+,Bachelor's,PE86 — Informatics,Urban,No,No,No,,5,5,3,5,1,1,1,5,1,5,4,2,4,5,4,2,5,5,5,5,3,5,2,5,4,4,1,4,4,3,3,4,3,3,4,3,3,4,5,5,5,5,4,3,1,5
+Yes,Female,41-50,21+,Master's,PE08 — Art,Urban,No,No,No,,5,5,4,4,2,2,3,4,3,5,4,2,4,4,5,1,4,4,5,4,2,5,2,5,4,4,2,5,4,4,5,4,4,5,5,4,2,3,4,4,5,5,5,4,3,3
+Yes,Male,31-40,11-20,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,Yes,No,No,,4,4,3,3,4,2,5,3,2,3,4,3,3,4,3,2,3,4,5,4,3,4,4,4,2,4,4,4,4,5,5,5,3,5,4,5,3,1,3,4,5,4,5,3,4,4
+Yes,Female,22-30,0-5,Bachelor's,PE79.01 — Music,Urban,No,Yes,No,No,5,4,3,4,2,3,3,4,3,4,5,4,4,4,5,3,5,4,4,5,2,5,2,3,5,3,4,3,4,4,4,3,5,5,3,4,3,2,4,4,5,4,5,2,2,5
+Yes,Female,31-40,6-10,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,5,4,3,3,3,5,3,3,4,2,3,4,3,2,1,4,4,5,4,5,3,4,4,4,4,5,4,3,5,3,3,5,3,5,4,2,4,5,4,4,5,4,3,5
+Yes,Female,31-40,6-10,Doctorate,PE70 SEN — Primary Teacher (Special Education),Urban,Yes,No,Yes,Rarely,5,4,1,3,1,1,1,4,2,3,3,5,3,5,3,4,2,3,3,4,4,3,4,3,4,4,5,5,5,5,5,5,5,5,5,5,5,1,2,3,3,3,5,3,3,4
+Yes,Male,22-30,0-5,Master's,PE08 — Art,Urban,No,No,Yes,Rarely,5,4,3,5,2,3,2,5,5,4,2,2,4,3,4,2,2,3,5,5,3,4,4,4,3,4,3,3,5,5,4,4,5,3,5,3,5,3,3,4,4,4,4,3,4,4
+Yes,Female,41-50,11-20,Master's,PE11 — Physical Education,Urban,Yes,No,Yes,"Yes, systematically",5,5,4,5,2,3,4,5,3,5,2,4,4,4,4,2,1,4,4,4,3,4,4,4,3,3,4,5,3,4,5,4,2,5,2,4,3,4,2,3,4,4,5,4,3,4
+Yes,Female,31-40,6-10,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,,4,5,3,5,1,1,2,5,1,5,4,3,5,5,5,1,4,5,5,5,2,5,2,5,5,5,1,4,4,3,4,3,4,3,3,3,2,3,4,4,4,5,4,2,2,5
+Yes,Female,41-50,21+,Doctorate,PE70 — Primary Teacher,Rural,No,Yes,No,,4,4,2,3,3,1,3,4,4,3,3,4,3,4,4,2,3,3,3,4,2,4,4,3,3,4,2,4,4,4,4,4,4,4,3,4,4,2,4,4,4,4,5,3,3,5
+Yes,Male,22-30,0-5,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Urban,No,Yes,No,,3,4,2,4,3,3,4,3,3,3,3,4,3,3,4,3,3,4,4,4,3,5,2,5,4,5,4,4,4,5,3,4,5,4,5,3,5,2,4,4,4,4,4,2,3,3
+Yes,Female,41-50,6-10,Master's,PE08 — Art,Urban,Yes,No,No,Rarely,5,5,3,4,3,3,3,5,4,4,2,4,3,4,3,3,1,3,3,4,4,4,3,4,3,3,3,4,4,5,4,4,4,4,3,3,3,2,3,2,3,3,5,3,2,4
+Yes,Female,41-50,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,5,5,5,3,3,5,5,4,3,4,3,4,4,4,2,3,4,3,4,2,5,2,4,3,4,4,4,4,3,3,3,5,3,4,3,4,3,2,4,3,4,4,2,2,3
+Yes,Female,22-30,6-10,Master's,PE86 — Informatics,Semi-urban,No,Yes,No,,5,4,5,4,3,1,2,4,3,3,4,3,5,4,4,3,3,5,3,4,4,5,4,5,4,4,4,4,3,5,5,5,4,4,2,3,2,2,4,3,4,5,4,3,3,4
+Yes,Male,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,Yes,No,,5,5,2,5,1,2,2,5,2,3,4,3,4,3,4,1,3,4,4,5,2,4,3,4,3,4,3,4,4,5,5,4,4,4,4,5,4,1,3,3,3,3,5,3,4,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Semi-urban,No,No,Yes,Sometimes,5,4,5,4,3,3,2,4,3,2,4,4,3,3,4,4,2,3,4,4,4,4,3,4,3,3,4,4,5,5,5,3,4,5,4,5,5,1,4,3,4,5,5,4,3,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,Yes,Sometimes,4,4,5,4,4,3,5,4,5,2,2,5,1,3,1,2,2,3,2,3,4,4,4,3,2,3,5,5,5,5,5,5,5,5,5,5,5,2,2,2,2,4,5,5,3,2
+Yes,Female,31-40,11-20,Master's,PE70 — Primary Teacher,Urban,No,No,No,,4,5,3,4,3,3,3,5,1,4,5,2,4,4,5,2,3,5,5,4,3,5,1,4,5,4,2,3,5,4,4,4,5,4,5,3,5,3,4,4,4,5,5,3,3,4
+Yes,Male,22-30,0-5,Master's,PE06 — Foreign Languages,Urban,No,Yes,No,,5,3,3,5,1,1,2,5,2,2,2,3,4,4,4,1,2,4,5,5,2,5,3,5,4,5,3,4,4,3,5,4,5,3,4,3,3,3,3,4,4,4,4,3,2,5
+Yes,Male,31-40,11-20,Bachelor's,PE70 — Primary Teacher,Rural,No,No,No,Rarely,5,5,2,5,1,3,2,5,1,3,4,3,4,4,3,2,4,4,4,5,1,4,2,5,4,4,4,4,5,5,4,5,4,5,5,4,5,2,3,4,5,5,5,4,3,4
+Yes,Male,51+,11-20,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,,4,4,4,5,2,2,3,5,2,5,3,3,3,3,4,2,3,3,5,4,3,5,3,4,4,4,3,5,5,4,4,4,5,4,4,5,4,2,5,3,4,4,5,3,2,4
+Yes,Female,31-40,6-10,Master's,PE08 — Art,Urban,No,No,No,,4,5,3,5,2,2,4,4,2,3,4,3,3,4,2,3,2,4,4,4,3,4,3,4,4,5,5,3,5,4,4,3,4,4,5,4,5,3,2,5,5,3,5,1,1,5
+Yes,Female,51+,21+,Bachelor's,PE70 — Primary Teacher,Rural,No,No,Yes,Sometimes,4,4,4,4,2,2,3,5,3,4,4,3,2,4,3,2,5,4,4,4,2,4,1,5,4,4,3,3,3,4,4,4,3,3,3,3,1,2,3,4,5,4,5,3,1,4
+Yes,Female,41-50,11-20,Master's,PE70 — Primary Teacher,Urban,No,Yes,No,,5,5,4,4,4,4,4,5,3,5,5,2,5,5,4,3,4,5,4,5,2,5,1,4,4,4,2,3,2,4,4,2,3,5,4,4,2,3,4,5,4,5,4,2,3,4
+Yes,Female,22-30,0-5,Bachelor's,PE11 — Physical Education,Semi-urban,No,No,No,,5,5,4,5,2,3,3,5,3,4,3,4,4,4,3,4,4,5,5,5,3,5,2,5,4,4,3,4,3,4,3,2,2,3,3,4,2,3,3,4,4,4,4,3,1,4
+Yes,Female,51+,21+,Master's,PE70 — Primary Teacher,Urban,No,No,Yes,Sometimes,5,4,4,5,4,3,3,4,3,5,4,4,4,5,4,2,4,4,4,5,1,4,2,3,4,5,1,5,3,4,5,4,5,3,3,5,3,3,3,4,4,5,5,5,2,5
+Yes,Female,22-30,6-10,Bachelor's,PE06 — Foreign Languages,Urban,No,No,No,,5,5,2,5,2,2,2,5,3,2,2,4,4,3,4,2,2,3,4,4,4,4,3,5,3,4,3,4,4,5,5,4,4,3,4,4,4,2,3,3,3,2,5,4,4,4
+Yes,Female,51+,21+,Master's,PE70 — Primary Teacher,Urban,No,No,No,,4,4,3,5,2,3,3,4,2,4,3,2,4,4,3,3,4,4,3,4,2,4,2,5,3,4,3,5,4,5,4,4,4,5,4,4,2,2,3,4,4,4,5,2,2,4
+Yes,Female,31-40,0-5,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,5,4,5,1,3,2,5,2,3,3,3,4,5,4,2,3,4,3,5,3,5,3,5,5,4,4,5,5,5,5,5,5,5,4,5,4,3,3,4,5,5,5,3,3,4
+Yes,Female,22-30,0-5,Bachelor's,PE08 — Art,Rural,No,No,No,,3,4,3,4,3,2,4,3,2,2,3,4,3,3,2,4,1,3,4,4,4,5,2,4,3,4,3,3,5,4,4,4,5,4,5,5,4,3,3,4,3,3,4,3,3,3
+Yes,Female,31-40,6-10,Doctorate,PE70 SEN — Primary Teacher (Special Education),Rural,No,No,No,,5,4,2,4,2,2,1,4,2,3,4,3,4,4,3,3,2,2,3,4,3,3,3,5,3,3,4,3,3,2,4,3,4,2,5,2,3,1,3,4,3,3,3,3,2,5
+Yes,Male,31-40,0-5,Master's,PE08 — Art,Urban,No,Yes,No,,5,5,2,5,1,1,2,4,1,4,4,2,3,4,4,2,5,4,5,5,1,5,1,5,5,5,1,4,4,3,3,3,3,2,3,4,2,4,4,4,4,4,4,2,2,4
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,Yes,No,,4,4,3,2,1,2,3,3,1,4,5,2,4,5,5,1,3,5,4,5,2,5,2,5,3,5,2,5,2,3,3,5,2,4,3,4,1,3,5,5,5,4,3,3,1,5
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,Rarely,5,4,3,4,1,2,2,5,1,3,3,2,4,5,3,3,3,3,4,4,2,5,2,5,4,4,2,4,5,4,4,4,4,4,2,3,2,2,5,4,4,4,4,3,2,5
+Yes,Female,51+,11-20,Master's,PE86 — Informatics,Semi-urban,No,No,No,,4,5,4,4,3,4,2,4,3,5,4,3,4,4,4,1,2,4,4,4,3,4,2,4,3,4,3,4,4,5,5,5,3,5,4,5,3,3,4,4,4,5,5,4,3,3
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Urban,Yes,No,Yes,Sometimes,5,5,3,5,3,2,3,5,2,5,5,1,4,4,5,1,4,5,5,5,2,5,2,4,5,5,1,5,3,4,5,3,3,3,5,4,2,3,4,5,5,5,5,4,2,5
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,2,4,3,3,2,5,3,3,2,4,3,3,3,3,2,2,2,4,4,4,3,4,3,4,2,5,4,5,4,4,5,4,5,5,4,2,3,3,2,3,4,4,1,3
+Yes,Female,31-40,6-10,Doctorate,PE70 — Primary Teacher,Urban,No,No,No,,4,3,4,5,4,1,4,3,3,3,3,5,2,3,5,3,3,4,2,4,5,3,5,3,2,3,5,5,5,5,5,5,5,5,5,5,4,2,1,3,4,4,5,4,4,3
+Yes,Female,41-50,6-10,Master's,PE86 — Informatics,Urban,Yes,No,No,,4,5,1,5,1,2,2,4,1,2,3,4,3,3,4,2,2,3,4,4,3,4,2,4,4,4,4,4,3,4,5,3,5,4,4,4,5,2,4,3,3,3,5,3,3,3
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,4,4,4,4,3,3,4,4,5,3,3,5,3,4,4,3,2,4,5,5,3,5,2,5,4,4,2,4,5,4,3,4,4,3,4,4,5,2,4,4,4,4,5,2,3,3
+Yes,Male,51+,21+,Bachelor's,PE71 — Special Education Teacher,Semi-urban,No,No,No,,4,5,3,4,1,3,4,5,3,3,4,3,4,3,3,3,3,3,4,5,2,5,2,4,5,5,3,4,4,3,4,4,3,3,3,3,3,2,2,4,5,4,4,2,2,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,Yes,No,,4,5,5,4,3,2,3,4,3,3,3,5,3,4,2,3,2,2,4,4,5,4,3,4,3,4,3,5,5,5,5,5,4,3,4,4,3,2,2,3,3,4,5,3,4,4
+Yes,Male,51+,11-20,Master's,PE71 — Special Education Teacher,Semi-urban,No,No,No,,3,4,3,3,2,3,3,4,4,4,3,2,3,4,4,2,3,4,4,5,3,4,3,5,4,3,5,4,3,5,5,5,5,5,4,5,4,2,3,4,3,4,5,5,4,3
+Yes,Female,41-50,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,Yes,No,,5,4,2,5,1,1,1,4,2,4,4,3,3,4,4,1,2,3,4,4,3,4,2,4,3,5,2,5,4,5,5,3,3,4,3,4,2,3,3,4,4,4,3,2,2,4
+Yes,Male,41-50,11-20,Master's,PE06 — Foreign Languages,Urban,Yes,No,No,,4,4,3,4,4,3,3,4,3,3,4,3,3,3,3,3,1,4,3,4,4,4,5,4,3,4,5,4,3,4,4,5,4,5,4,4,5,2,2,3,3,4,5,4,3,2
+Yes,Male,31-40,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,Yes,"Yes, systematically",4,4,4,4,3,3,3,4,1,3,4,4,3,4,3,3,2,2,4,4,4,4,3,4,2,3,3,5,4,3,5,3,4,5,4,3,4,3,2,3,4,4,5,2,2,3
+Yes,Female,31-40,6-10,Doctorate,PE70 — Primary Teacher,Urban,No,Yes,No,,5,5,2,4,1,1,1,5,1,3,4,3,4,2,3,2,2,4,4,5,2,5,2,5,4,4,3,5,4,5,4,3,3,4,5,3,3,4,3,3,4,4,4,3,3,4
+Yes,Female,31-40,6-10,Bachelor's,PE86 — Informatics,Urban,No,No,Yes,Rarely,4,4,4,4,2,3,4,4,3,3,3,5,4,3,3,2,2,4,4,4,4,4,3,3,3,4,4,4,4,5,4,4,5,4,5,5,3,3,4,5,4,4,5,3,4,4
+Yes,Female,31-40,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,4,3,4,2,2,2,4,2,4,3,2,4,4,3,2,2,4,4,4,2,4,4,3,3,3,4,5,3,4,5,4,5,3,3,3,3,2,2,4,3,3,5,3,4,4
+Yes,Female,22-30,0-5,Bachelor's,PE86 — Informatics,Semi-urban,No,No,No,,4,4,5,3,3,4,4,4,5,5,3,3,3,5,4,2,2,3,3,4,3,4,4,4,4,4,3,5,4,5,5,5,3,4,4,5,4,3,3,4,4,4,5,4,3,3
+Yes,Male,22-30,0-5,Master's,PE08 — Art,Semi-urban,No,No,No,Rarely,5,5,2,5,1,1,1,5,2,3,5,3,5,4,4,2,4,4,5,5,1,5,3,4,4,4,3,4,3,3,3,2,3,3,3,3,1,4,5,5,4,4,4,2,2,4
+Yes,Male,41-50,6-10,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,4,5,5,2,3,2,5,2,4,5,3,4,5,5,1,5,5,5,5,2,5,3,5,4,5,2,3,4,2,3,2,3,2,4,2,2,5,5,5,5,5,4,2,1,5
+Yes,Female,22-30,0-5,Master's,PE11 — Physical Education,Rural,No,Yes,No,,3,4,2,3,3,2,5,5,3,4,4,4,5,4,4,2,2,3,3,4,3,5,3,4,4,5,2,4,5,5,5,3,5,5,5,4,5,2,4,4,4,4,4,4,3,4
+Yes,Female,22-30,0-5,Master's,PE71 — Special Education Teacher,Urban,No,Yes,Yes,Rarely,5,5,3,5,4,3,4,5,4,5,4,3,3,5,4,3,3,5,3,4,3,4,3,4,4,4,4,5,4,3,3,4,4,4,2,4,5,2,3,4,4,5,5,2,2,4
+Yes,Female,51+,11-20,Master's,PE70 — Primary Teacher,Urban,Yes,No,No,,4,4,3,4,2,1,3,4,5,2,3,3,5,3,5,2,4,3,4,4,2,4,3,5,5,5,4,4,4,5,5,5,4,4,4,5,4,2,3,3,5,4,5,3,5,3
+Yes,Female,41-50,11-20,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,4,4,2,2,2,4,3,4,3,1,5,4,3,2,3,5,3,5,2,4,5,4,3,4,3,2,4,4,3,5,3,2,3,2,3,2,3,4,4,4,4,1,2,5
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,Yes,No,No,,5,4,5,4,5,5,5,5,5,4,5,3,4,5,4,2,4,5,4,5,2,4,2,3,4,5,4,5,3,3,3,5,4,3,3,5,3,4,3,4,5,4,4,3,2,4
+Yes,Female,41-50,11-20,Bachelor's,PE70 — Primary Teacher,Rural,No,No,Yes,Rarely,4,4,3,3,1,3,3,4,3,3,3,4,3,4,4,3,2,2,5,5,3,4,3,5,3,5,3,3,5,5,5,5,5,5,5,4,5,3,2,4,3,4,5,4,5,4
+Yes,Female,41-50,11-20,Master's,PE71 — Special Education Teacher,Urban,No,Yes,No,No,5,5,4,5,4,3,4,5,3,3,5,2,4,5,4,1,4,4,4,5,2,5,4,4,4,5,3,3,3,3,4,3,1,3,3,3,2,2,4,5,5,4,5,1,2,5
+Yes,Female,31-40,11-20,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,Yes,No,No,,5,5,5,4,4,3,4,4,3,3,3,4,3,4,3,3,3,3,5,5,4,5,2,4,5,4,2,4,4,4,5,4,5,3,4,3,4,2,3,4,4,3,5,4,4,5
+Yes,Male,51+,21+,Master's,PE70 — Primary Teacher,Urban,No,Yes,No,,4,4,4,3,1,1,1,3,1,3,2,5,3,4,5,2,1,3,3,4,3,4,4,3,3,3,5,4,2,4,4,3,4,3,3,4,4,2,2,3,4,3,4,3,2,4
+Yes,Male,22-30,6-10,Master's,PE71 — Special Education Teacher,Semi-urban,Yes,No,No,,4,4,2,4,2,2,5,4,3,5,5,1,4,4,5,1,5,5,5,5,2,5,1,5,5,4,3,4,4,4,3,4,4,4,3,4,4,5,5,5,5,5,4,4,3,5
+Yes,Female,41-50,11-20,Bachelor's,PE08 — Art,Semi-urban,No,No,No,,5,5,3,4,3,2,3,5,3,4,4,2,5,5,4,1,4,4,5,5,1,5,1,5,4,4,2,4,3,3,5,2,2,2,3,3,4,3,5,5,5,5,4,1,2,4
+Yes,Female,51+,21+,Master's,PE70 — Primary Teacher,Urban,No,No,No,Rarely,4,5,4,5,2,4,3,5,3,3,3,4,4,4,4,2,3,5,4,5,3,5,4,4,3,4,3,5,5,5,4,5,5,5,4,5,5,3,3,4,4,4,5,3,3,4
+Yes,Female,22-30,0-5,Master's,PE06 — Foreign Languages,Rural,No,Yes,No,,4,4,3,4,2,2,3,4,1,4,3,4,3,4,4,1,3,3,5,5,1,5,3,5,5,4,2,4,3,5,5,4,4,3,4,4,5,3,4,4,4,4,4,3,3,4
+Yes,Female,22-30,6-10,Bachelor's,PE86 — Informatics,Semi-urban,No,No,No,,5,5,2,4,2,2,2,5,2,4,3,3,4,4,4,3,4,2,5,5,2,4,2,4,4,4,2,5,4,4,5,4,3,4,2,4,4,2,3,4,4,4,5,4,4,3
+Yes,Female,31-40,6-10,Doctorate,PE79.01 — Music,Semi-urban,Yes,No,No,,5,4,2,5,1,1,1,5,1,2,4,4,4,4,3,4,3,3,4,5,3,5,4,5,4,4,3,4,5,4,4,4,4,5,4,3,5,3,4,4,3,4,4,2,1,4
+Yes,Female,41-50,6-10,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,4,3,3,4,3,4,3,2,3,5,3,3,3,4,4,3,4,5,3,5,3,4,4,4,5,4,2,5,5,4,3,3,2,3,3,1,3,4,4,3,4,2,3,3
+Yes,Female,31-40,0-5,Doctorate,PE70 — Primary Teacher,Urban,No,No,No,,5,5,1,5,1,1,1,5,1,3,3,3,4,4,3,1,2,4,4,5,1,4,3,4,4,5,3,4,5,5,4,4,5,5,4,5,5,2,2,4,3,5,5,3,3,4
+Yes,Male,22-30,6-10,Master's,PE70 SEN — Primary Teacher (Special Education),Semi-urban,No,No,No,,4,4,4,3,2,1,4,5,3,3,3,4,3,4,4,3,3,3,3,4,3,4,3,4,4,4,2,5,5,5,5,5,5,5,4,5,5,2,3,4,4,3,4,5,4,3
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,3,5,1,1,5,5,2,2,3,5,3,3,4,5,3,5,5,5,3,5,3,5,4,4,3,4,4,4,4,3,3,4,3,3,3,2,2,4,3,4,4,3,2,3
+Yes,Male,31-40,6-10,Master's,PE70 — Primary Teacher,Rural,No,No,No,,4,5,4,4,3,4,3,4,3,2,2,4,2,3,3,3,1,3,4,4,3,5,4,4,3,4,4,4,5,5,5,4,3,4,4,4,4,2,2,4,3,3,5,3,3,4
+Yes,Female,51+,21+,Master's,PE70 — Primary Teacher,Urban,No,Yes,No,,5,4,3,4,2,2,1,3,1,4,3,4,3,4,2,3,1,2,4,5,4,4,3,5,3,4,2,4,4,5,5,4,5,5,3,3,2,2,2,4,3,4,5,4,3,3
+Yes,Male,31-40,6-10,Doctorate,PE08 — Art,Urban,No,No,Yes,Sometimes,5,4,3,4,2,2,2,3,1,4,5,4,3,4,5,2,4,4,4,4,4,5,2,5,4,4,4,5,2,4,4,3,2,3,2,2,1,4,4,4,4,5,4,2,2,5
+Yes,Female,31-40,6-10,Doctorate,PE08 — Art,Rural,Yes,No,No,,5,5,3,5,1,1,1,5,1,3,4,3,3,4,3,2,2,4,4,5,2,4,3,5,5,5,2,4,5,4,5,4,4,5,4,3,5,2,2,3,4,4,5,3,2,5
+Yes,Female,51+,11-20,Master's,PE70 — Primary Teacher,Semi-urban,Yes,No,No,Rarely,4,4,5,5,4,3,4,4,4,4,3,5,3,3,3,3,3,3,3,3,5,4,2,3,3,4,4,4,5,5,5,4,4,5,4,5,5,2,1,3,3,4,5,3,3,5
+Yes,Female,22-30,0-5,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,Rarely,5,5,3,5,2,3,4,5,5,3,4,3,3,4,4,1,4,3,4,4,3,5,2,4,4,4,3,4,5,4,5,5,5,5,5,4,5,3,4,3,4,3,5,3,3,4
+Yes,Female,31-40,6-10,Bachelor's,PE71 — Special Education Teacher,Rural,No,No,Yes,No,4,4,3,4,3,4,2,4,2,1,1,4,2,2,3,4,1,1,3,3,4,4,4,4,2,3,5,3,5,5,5,5,4,5,5,4,3,1,1,4,2,3,5,3,4,2
+Yes,Male,22-30,0-5,Master's,PE70 — Primary Teacher,Rural,No,No,Yes,No,3,4,3,3,2,1,3,4,3,4,5,3,5,4,3,2,3,4,4,5,1,4,3,4,4,5,3,2,4,3,4,4,3,3,4,3,4,3,4,4,4,5,4,3,2,4
+Yes,Female,41-50,6-10,Bachelor's,PE71 — Special Education Teacher,Urban,No,No,Yes,No,5,4,3,4,1,3,3,5,2,4,4,2,4,4,5,1,4,5,5,5,2,4,2,5,4,5,1,4,4,4,4,3,4,4,3,3,2,4,4,5,5,5,5,2,2,4
+Yes,Female,31-40,6-10,Bachelor's,PE71 — Special Education Teacher,Urban,No,Yes,No,,4,4,2,4,2,2,2,4,1,4,3,4,3,3,4,2,2,5,4,5,2,4,4,4,4,4,3,3,5,4,4,3,5,3,5,4,5,3,2,3,4,4,4,3,3,4
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Urban,No,Yes,No,,5,5,2,4,4,3,4,5,3,3,3,3,2,5,3,2,2,4,5,5,3,5,4,4,4,5,3,4,4,2,3,4,3,4,3,3,1,3,3,4,4,4,4,3,3,4
+Yes,Female,41-50,6-10,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,5,4,5,3,3,3,5,3,5,5,1,5,5,5,2,4,5,5,5,2,5,3,5,5,5,3,4,5,4,4,4,3,3,4,3,2,4,5,4,5,5,5,3,3,4
+Yes,Female,51+,21+,Master's,PE70 — Primary Teacher,Urban,No,No,No,Rarely,5,4,5,4,4,3,4,4,2,2,3,3,3,4,3,4,4,3,5,4,2,5,1,4,4,4,4,3,3,4,4,4,3,5,4,3,3,1,2,3,3,4,5,4,1,3
+Yes,Female,41-50,11-20,Master's,PE79.01 — Music,Urban,No,Yes,No,,5,4,4,5,4,3,3,4,4,3,3,3,3,3,4,3,3,2,4,5,4,3,2,4,3,4,4,5,5,5,5,5,3,5,4,5,3,3,3,3,3,4,5,4,4,2
+Yes,Female,41-50,11-20,Doctorate,PE79.01 — Music,Semi-urban,No,No,Yes,Rarely,4,4,3,4,2,2,2,4,3,4,3,4,3,4,3,3,3,3,4,4,4,5,4,4,3,4,5,5,5,4,5,5,5,4,5,5,5,1,3,3,4,4,4,3,3,3
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,3,5,3,3,3,5,3,3,3,3,4,4,5,2,3,3,4,4,4,4,3,4,4,4,2,4,4,3,4,4,4,3,4,4,4,2,2,4,4,5,4,2,3,3
+Yes,Female,31-40,6-10,Master's,PE06 — Foreign Languages,Semi-urban,No,No,No,,4,4,4,2,3,3,4,4,3,3,3,3,3,3,4,3,3,3,4,4,3,4,3,4,2,4,3,5,4,5,5,5,3,2,3,4,4,3,3,3,4,4,5,4,3,3
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Semi-urban,Yes,Yes,No,,3,3,3,2,4,3,3,3,3,2,3,4,3,2,4,4,2,3,4,4,5,4,4,3,3,3,4,3,5,4,5,4,5,4,3,4,3,2,1,3,3,4,4,3,3,3
+Yes,Female,22-30,6-10,Bachelor's,PE86 — Informatics,Semi-urban,Yes,Yes,No,,5,5,4,5,4,4,3,5,5,3,4,3,4,3,4,2,2,3,3,4,3,4,3,3,3,5,5,5,5,4,5,5,5,3,5,5,5,3,2,4,4,3,5,3,3,3
+Yes,Female,22-30,0-5,Master's,PE71 — Special Education Teacher,Urban,No,No,No,Rarely,5,5,4,5,1,3,4,5,3,4,4,3,4,4,3,2,4,3,5,5,3,4,3,5,4,5,3,3,2,4,3,2,2,3,2,4,2,3,3,4,4,5,5,2,3,4
+Yes,Female,41-50,6-10,Bachelor's,PE79.01 — Music,Urban,No,Yes,No,,5,4,4,4,2,3,1,4,2,3,3,3,4,4,3,2,3,5,4,3,2,4,3,5,3,5,1,5,4,4,5,2,3,4,4,3,3,2,3,4,3,5,4,3,3,4
+Yes,Female,31-40,11-20,Doctorate,PE70 — Primary Teacher,Semi-urban,Yes,Yes,No,,5,4,2,3,1,2,1,3,1,3,4,4,3,4,3,3,3,3,3,4,3,4,3,3,4,4,3,5,5,5,5,5,5,5,5,4,5,3,3,4,4,4,5,4,4,4
+Yes,Female,51+,21+,Master's,PE70 — Primary Teacher,Urban,No,Yes,No,,5,4,2,5,1,1,1,5,2,4,3,4,3,4,4,1,4,5,5,5,2,5,2,5,5,5,2,5,4,5,5,5,5,5,5,5,4,4,4,4,4,4,5,5,3,4
+Yes,Male,41-50,11-20,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,,4,5,4,4,4,5,3,5,4,3,3,2,4,4,4,1,4,4,5,4,1,5,2,4,3,4,4,2,5,4,5,3,4,4,3,1,3,3,3,4,4,4,3,3,2,4
+Yes,Female,22-30,6-10,Bachelor's,PE11 — Physical Education,Rural,No,No,Yes,Sometimes,5,5,3,4,2,2,2,4,2,3,2,3,3,4,4,3,5,5,5,4,2,4,2,5,4,4,3,4,5,4,4,2,5,3,4,4,4,3,2,4,4,4,4,1,2,4
+Yes,Female,41-50,11-20,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,Rarely,5,5,4,4,4,3,3,5,4,4,4,3,2,4,4,2,3,4,4,5,5,5,2,5,4,4,2,3,4,4,4,4,4,3,5,3,3,4,5,4,4,4,5,2,2,4
+Yes,Female,51+,21+,Master's,PE70 — Primary Teacher,Rural,Yes,Yes,No,,5,5,2,4,1,3,3,5,4,2,3,5,3,2,3,4,2,2,4,5,3,4,1,5,4,4,4,5,5,5,4,4,3,4,5,4,3,1,2,4,2,4,5,5,4,3
+Yes,Female,41-50,6-10,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,,4,4,2,4,2,2,1,5,1,3,4,3,4,5,4,2,3,5,4,5,2,5,1,5,4,5,2,4,4,3,3,2,4,1,2,2,5,4,4,5,4,5,4,2,2,4
+Yes,Female,31-40,6-10,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Rural,Yes,No,Yes,Rarely,4,4,4,3,2,3,3,4,3,2,3,3,3,4,4,3,3,3,5,4,3,5,3,5,4,4,3,3,4,3,4,3,3,1,3,2,5,4,4,4,5,4,4,2,2,3
+Yes,Female,31-40,0-5,Doctorate,PE71 — Special Education Teacher,Semi-urban,No,No,No,,5,4,1,4,2,1,1,4,1,3,3,4,3,3,2,4,1,2,4,4,2,5,3,4,3,4,4,4,4,5,5,5,3,5,5,5,4,1,2,2,2,4,5,4,3,2
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Rural,Yes,Yes,No,,5,4,5,4,1,2,3,3,3,4,4,2,3,5,4,2,4,5,4,5,1,5,3,5,4,4,2,4,4,4,4,4,5,4,4,5,3,4,4,4,5,5,4,3,3,4
+Yes,Female,41-50,11-20,Bachelor's,PE70 — Primary Teacher,Urban,No,No,Yes,Rarely,4,4,2,3,3,1,3,5,3,4,4,4,4,4,5,3,4,4,3,5,1,5,1,5,5,5,2,3,3,4,4,3,3,4,3,3,1,4,4,4,5,4,4,2,2,5
+Yes,Male,31-40,6-10,Doctorate,PE70 — Primary Teacher,Rural,Yes,No,No,,4,4,2,4,1,1,1,3,1,5,5,4,4,4,5,2,4,5,4,5,2,5,1,5,3,4,3,4,4,4,5,3,1,3,3,4,3,4,4,5,3,5,5,3,2,4
+Yes,Female,51+,21+,Master's,PE70 — Primary Teacher,Urban,No,No,No,,4,5,3,5,3,2,2,4,2,3,3,3,3,3,3,4,1,4,4,4,2,4,4,4,4,4,4,4,4,5,4,4,3,4,4,3,4,2,1,4,3,3,5,2,3,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,Yes,Rarely,4,4,3,3,4,3,2,4,2,3,2,4,2,3,3,4,1,4,3,4,4,4,4,3,3,4,3,5,4,5,5,4,3,4,4,5,4,2,2,3,2,3,5,4,4,3
+Yes,Female,22-30,0-5,Master's,PE06 — Foreign Languages,Semi-urban,No,No,No,,4,4,5,4,4,3,3,4,3,4,4,3,4,4,5,1,4,5,5,5,2,5,3,5,5,4,3,4,4,4,5,4,4,4,4,5,4,2,3,5,5,5,5,3,3,5
+Yes,Male,22-30,0-5,Bachelor's,PE79.01 — Music,Semi-urban,Yes,Yes,No,,5,5,5,5,2,2,4,5,3,4,4,4,3,4,4,2,5,5,3,4,2,5,2,4,4,4,2,4,3,3,4,3,3,5,2,3,4,3,3,4,4,3,5,2,1,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Urban,Yes,No,No,Rarely,5,5,3,5,3,4,3,5,5,4,5,2,5,5,5,1,3,4,4,5,2,5,2,5,5,4,3,4,5,5,4,2,4,3,5,4,5,3,4,5,5,4,4,2,1,4
+Yes,Female,41-50,11-20,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,4,2,5,3,2,3,5,3,4,5,2,4,5,4,1,4,4,5,4,1,5,2,5,4,4,1,3,3,3,4,3,5,2,2,4,1,4,3,5,5,5,3,2,2,4
+Yes,Female,41-50,6-10,Master's,PE71 — Special Education Teacher,Urban,No,No,No,,4,4,2,4,2,2,2,3,1,3,4,4,2,3,4,3,3,2,4,5,1,4,3,5,5,5,2,4,3,3,4,4,3,3,4,4,3,2,4,4,2,4,5,1,3,4
+Yes,Male,22-30,6-10,Master's,PE11 — Physical Education,Semi-urban,No,No,No,,5,4,2,4,1,2,2,4,1,5,4,3,5,5,4,2,1,5,5,5,1,5,1,5,5,5,1,3,2,2,4,3,3,3,2,3,2,3,3,4,4,5,4,3,1,4
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Rural,No,No,Yes,Sometimes,4,5,4,5,3,2,3,4,4,3,4,3,4,4,4,3,2,4,5,5,3,5,1,5,5,3,3,3,4,4,4,3,3,3,2,4,4,2,3,4,4,4,4,3,2,5
+Yes,Male,22-30,6-10,Master's,PE70 SEN — Primary Teacher (Special Education),Urban,No,No,No,,5,4,4,5,4,2,2,5,4,3,4,4,3,4,4,4,4,3,4,4,2,4,2,4,3,4,2,4,3,4,3,3,3,4,4,5,2,1,3,4,4,3,4,3,2,4
+Yes,Female,51+,11-20,Master's,PE70 — Primary Teacher,Urban,No,Yes,Yes,Sometimes,5,5,4,4,1,2,1,5,2,3,3,3,3,3,3,3,2,3,4,5,2,4,4,5,4,4,3,5,4,4,4,4,3,4,2,5,2,2,3,4,3,3,5,3,3,4
+Yes,Female,22-30,6-10,Bachelor's,PE70 — Primary Teacher,Urban,No,Yes,No,,4,4,3,4,3,2,4,5,4,4,3,3,4,5,4,3,2,3,3,4,4,4,3,4,3,2,3,4,5,5,5,5,5,3,4,5,3,3,2,4,4,4,5,5,3,5
+Yes,Female,31-40,11-20,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,4,4,5,3,4,2,3,3,2,3,2,3,3,2,4,3,2,3,5,4,2,5,2,5,4,3,4,5,5,4,4,3,4,4,3,4,4,1,3,3,4,4,4,2,3,4
+Yes,Female,31-40,0-5,Master's,PE86 — Informatics,Rural,Yes,No,No,,4,4,5,3,5,3,4,4,4,3,2,5,3,3,3,3,2,3,4,3,5,4,4,4,2,3,5,4,4,5,5,5,4,5,4,4,4,3,3,3,2,3,5,4,3,4
+Yes,Female,31-40,6-10,Master's,PE70 — Primary Teacher,Rural,No,No,No,,5,5,2,4,3,1,3,5,4,4,2,2,4,4,5,1,3,3,5,5,3,5,3,5,3,5,3,4,5,4,4,4,5,5,3,5,5,3,3,5,4,4,5,4,3,4
+Yes,Female,51+,21+,Master's,PE70 — Primary Teacher,Urban,No,Yes,No,No,5,5,3,5,4,4,2,5,3,3,3,4,5,4,3,4,4,4,4,4,1,4,2,4,4,4,1,4,4,4,4,4,2,3,3,4,3,4,4,4,4,5,4,4,4,5
+Yes,Female,41-50,21+,Master's,PE70 — Primary Teacher,Urban,No,Yes,No,,4,4,5,4,5,3,4,4,3,3,4,5,3,3,4,3,2,2,3,4,5,3,4,2,2,3,5,5,5,5,4,5,5,5,4,5,5,1,1,3,3,4,5,4,2,2
+Yes,Female,22-30,0-5,Bachelor's,PE06 — Foreign Languages,Semi-urban,No,No,No,,4,4,5,3,3,3,4,3,5,3,3,4,4,3,5,3,2,3,4,4,4,4,3,4,4,4,5,4,4,4,5,5,4,3,3,5,3,3,4,2,4,4,5,3,2,3
+Yes,Female,31-40,0-5,Master's,PE06 — Foreign Languages,Urban,No,No,No,,4,4,2,4,3,1,3,5,3,3,4,3,3,3,4,5,2,3,2,5,4,4,3,4,3,4,4,4,4,5,5,5,4,4,5,4,4,2,3,4,4,4,5,4,3,3
+Yes,Male,22-30,6-10,Master's,PE70 — Primary Teacher,Urban,Yes,No,No,,3,3,3,4,2,2,2,4,2,3,4,2,3,4,4,2,3,5,5,5,1,5,1,5,5,5,2,3,3,3,4,3,4,3,3,4,2,2,4,5,4,4,4,2,1,4
+Yes,Female,31-40,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,1,4,1,1,1,4,2,3,3,4,4,4,3,2,3,4,4,5,2,5,2,5,4,5,2,3,4,4,4,2,3,2,5,3,3,3,4,4,5,4,4,1,1,4
+Yes,Female,41-50,6-10,Master's,PE70 — Primary Teacher,Semi-urban,No,No,No,,5,4,5,4,2,2,2,4,4,3,3,4,4,3,3,3,2,4,3,4,4,3,3,3,2,3,4,5,3,3,5,4,5,5,3,4,4,2,2,3,3,3,4,3,2,4
+Yes,Female,41-50,6-10,Master's,PE70 — Primary Teacher,Rural,No,No,No,,5,4,2,4,2,1,1,5,1,4,4,3,4,4,4,2,3,5,5,5,1,5,2,5,5,4,3,3,3,5,4,4,3,3,4,3,3,3,4,3,4,4,4,2,2,4
+Yes,Female,51+,21+,Doctorate,PE08 — Art,Semi-urban,No,No,Yes,Sometimes,4,4,2,4,1,2,2,3,2,4,3,4,5,4,4,3,4,3,5,3,3,4,3,4,3,4,3,5,5,5,4,4,5,5,4,5,5,2,4,4,5,4,4,5,3,4
+Yes,Female,51+,21+,Bachelor's,PE70 — Primary Teacher,Urban,No,No,No,,5,5,3,5,3,3,3,5,4,4,4,3,4,5,4,1,4,4,4,5,2,4,2,5,3,4,3,4,4,4,4,4,4,4,2,5,4,4,5,4,5,5,4,3,2,4
+Yes,Female,51+,11-20,Master's,PE70 — Primary Teacher,Urban,Yes,No,Yes,No,5,5,5,5,4,3,3,4,5,4,4,1,4,4,3,2,5,5,4,5,2,5,1,5,5,3,2,4,4,4,5,3,3,3,3,3,3,2,5,5,5,5,5,2,2,4
+Yes,Female,41-50,11-20,Master's,PE71 — Special Education Teacher,Urban,Yes,No,Yes,"Yes, systematically",5,5,3,5,3,2,2,5,1,2,3,3,4,4,3,2,3,3,4,4,3,4,3,5,4,5,3,4,5,3,4,4,4,3,3,4,4,1,2,3,4,3,5,3,2,5
+Yes,Female,41-50,11-20,Doctorate,PE70 — Primary Teacher,Urban,Yes,No,No,,5,4,1,4,1,1,1,5,1,3,3,4,3,4,3,2,2,4,5,4,3,5,3,5,4,4,3,5,4,5,5,4,5,4,4,5,4,2,4,4,3,4,5,3,4,4
+Yes,Male,51+,21+,Master's,PE06 — Foreign Languages,Semi-urban,No,No,No,Rarely,5,4,1,4,1,2,2,5,1,5,5,1,5,5,4,1,5,5,5,5,1,5,2,5,5,5,1,2,3,1,2,2,3,2,3,2,3,3,5,5,5,5,3,1,1,5
+Yes,Female,22-30,6-10,Master's,PE79.01 — Music,Semi-urban,No,No,No,,4,4,3,3,3,2,2,4,3,3,3,4,2,3,3,5,1,2,4,4,3,5,1,4,3,4,4,5,5,5,4,4,5,4,5,5,5,1,2,3,4,3,5,4,4,3
+Yes,Female,22-30,6-10,Master's,PE79.01 — Music,Semi-urban,No,Yes,Yes,Rarely,4,5,3,5,4,2,3,5,3,4,4,4,3,4,3,3,3,4,3,4,4,4,5,4,3,4,3,5,3,3,4,4,4,5,4,5,2,2,2,4,3,4,5,3,3,3
+Yes,Female,22-30,0-5,Bachelor's,PE11 — Physical Education,Urban,No,Yes,No,No,4,4,3,3,4,1,3,5,1,2,2,5,3,3,2,5,3,3,4,4,3,5,2,5,4,4,4,5,4,4,4,3,4,3,5,5,3,1,2,3,4,3,4,2,3,2
+Yes,Female,22-30,0-5,Bachelor's,PE70 — Primary Teacher,Rural,No,No,No,,4,4,4,5,2,3,3,5,3,3,4,3,4,4,5,3,3,3,5,4,3,4,3,4,4,4,2,3,4,4,5,5,3,4,3,5,3,2,3,4,4,3,5,3,3,4
+Yes,Female,51+,21+,Master's,PE06 — Foreign Languages,Urban,Yes,No,No,,3,4,2,4,3,2,2,4,1,5,4,2,4,4,3,2,5,4,5,5,2,5,3,5,5,4,1,4,3,3,3,3,4,3,4,2,2,3,5,4,4,5,5,2,2,5
+Yes,Female,51+,21+,Bachelor's,PE70 — Primary Teacher,Urban,Yes,Yes,No,,4,5,3,5,4,3,3,4,2,4,4,3,3,4,5,2,3,4,4,5,3,4,4,5,3,3,3,4,4,3,4,2,2,2,3,2,2,2,3,5,4,4,4,2,2,3
+Yes,Female,22-30,0-5,Bachelor's,PE79.01 — Music,Urban,Yes,No,No,,5,4,4,4,2,2,2,3,3,4,2,5,3,3,3,4,2,2,3,4,3,5,2,4,4,4,3,5,4,4,4,4,4,4,4,5,3,1,1,2,3,4,4,2,2,2
+Yes,Female,51+,21+,Bachelor's,PE70 — Primary Teacher,Semi-urban,No,No,No,,4,4,3,4,3,3,3,4,1,4,3,3,3,4,4,4,2,3,4,4,2,4,4,4,4,4,3,4,4,5,5,5,5,5,4,4,4,2,2,4,3,4,5,4,3,4
+Yes,Female,22-30,6-10,Bachelor's,PE70 — Primary Teacher,Urban,No,Yes,No,,4,5,4,5,4,3,5,5,4,4,3,4,4,3,4,2,3,5,4,4,1,4,3,4,4,4,2,4,5,4,3,4,4,3,5,4,3,2,3,4,4,5,4,2,3,3
+Yes,Female,41-50,11-20,Master's,PE70 — Primary Teacher,Semi-urban,Yes,No,No,,5,4,2,4,1,1,2,5,2,4,4,3,3,4,4,2,4,3,4,5,1,4,2,5,5,4,3,4,3,4,4,2,3,4,3,3,3,2,4,5,4,4,5,2,2,4
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,,4,4,4,5,4,5,3,5,2,4,4,2,5,5,3,2,5,5,4,5,3,5,3,4,3,4,3,3,4,5,4,3,3,2,3,3,3,3,5,5,5,5,4,4,2,4
+Yes,Female,31-40,0-5,Master's,PE71 — Special Education Teacher,Urban,No,Yes,Yes,Sometimes,5,5,3,4,4,3,4,5,4,5,4,2,5,5,5,1,5,4,5,5,1,5,3,5,4,4,3,4,4,5,5,3,4,5,5,5,4,2,2,4,5,5,4,2,3,4
+Yes,Female,41-50,6-10,Bachelor's,PE70 SEN — Primary Teacher (Special Education),Semi-urban,No,No,No,,5,5,5,5,3,2,3,5,5,5,4,2,4,5,4,1,5,4,5,5,1,5,2,5,4,4,2,4,3,4,4,4,5,4,3,4,2,4,5,4,4,5,5,2,3,5
+Yes,Female,22-30,0-5,Master's,PE70 — Primary Teacher,Urban,No,No,No,,4,4,5,3,2,3,3,3,2,4,3,4,4,3,3,2,2,4,3,4,3,4,3,4,3,2,4,3,4,5,5,5,5,4,5,4,5,2,3,3,5,4,4,4,3,4
+Yes,Female,41-50,11-20,Bachelor's,PE79.01 — Music,Semi-urban,No,No,No,,5,4,4,4,4,2,4,4,2,3,5,1,4,5,4,1,2,5,4,5,2,5,1,4,4,5,4,3,4,3,3,2,4,3,3,3,3,4,4,5,4,5,3,2,2,4
