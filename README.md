@@ -6,7 +6,7 @@ sustainability, the classroom practices they report, the barriers they perceive 
 their appraisal of their own implementation.
 
 - Sample: 391 teachers
-- Fieldwork: 22 May – 20 September 2026
+- Fieldwork: 22 May – 30 September 2026
 - Instrument: 46 five-point Likert items in five blocks, plus background questions
 - Language of administration: Greek
 
